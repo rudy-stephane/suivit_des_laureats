@@ -21,23 +21,34 @@
 	<div class="container">
 		<div class="navbar">
 			<div class="container">
-				<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<button type="button" class="btn btn-navbar active" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Business <small>  Ltd.</small></a></h1>
+				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class=""><a href="index.html">Home	</a></li>
-						<li class=""><a href="services.html">What we do?</a></li>  
-						<li class="active"><a href="about_us.html">Who we are?</a></li>
-						<li class=""><a href="portfolio.html">Portfolio</a></li>
+						<li class="active"><a href="index.html">Acceuil	</a></li>
+						<li class=""><a href="services.html">Actualite</a></li>  
+						<li class=""><a href="about_us.html">Agenda</a></li>
+						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<ul class="dropdown-menu">
+								<li><a href="elements.html">Etudiant</a></li>
+								<li><a href="comingsoon.html">Responsable</a></li>
+								<li><a href="comingsoon.html">Laureat</a></li>
+								<li><a href="comingsoon.html">Promoteur</a></li>
+								<li><a href="comingsoon.html">Autres</a></li>
+							</ul>
+						</li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Features<b class="caret"></b></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">Page Elements</a></li>
-								<li><a href="comingsoon.html">Coming soon page</a></li>
+								<li><a href="elements.html">je recrute</a></li>
+								<li><a href="comingsoon.html">je suis en recherche</a></li>
+								<li><a href="comingsoon.html">Nomination</a></li>
+								<li><a href="comingsoon.html">mentorat</a></li>
+								<li><a href="comingsoon.html">initiatives</a></li>
 							</ul>
 						</li>
 						<li class=""><a href="blog.html">Blog</a></li>
@@ -232,14 +243,17 @@
 	<div class="row-fluid">
 	<div class="span4">
 			<h4>Newsletter and Subscription</h4>
-			<h5>Our aim</h5>
+			<h5>pourquoi devenir membre des alumni ?</h5>
 			<em>
-			"To provide affordable web design and development services for different devices is our aim, 
-			that fully meet your requirements." <br/><br/>
+			"En rejoignant l’ALUMNI de l’Université de Reims Champagne-Ardenne, vous adhérez à une démarche solidaire qui vous relie à votre formation et à vos pairs, qui vous inclut dans le rayonnement de votre ancien établissement et vous permet de soutenir les étudiants dans leurs études ou dans leur insertion professionnelle." <br/><br/>
 			</em>
-			<h5>What our client say?</h5>
+			<h5>quels objectifs pratiques ?</h5>
 			<em>
-			" I can confirm, bougth the theme a couple of days afo and it is really fantastic. Very flexible, very good support. I really like it."
+			"	Pour les étudiants en cursus, faciliter l'offre de stages, l'insertion professionnelle, la mobilité internationale grâce au réseau des diplômés, développer l’accompagnement (coaching, mentorat…) ;
+ 				Accompagner et soutenir les initiatives par campus, par filière ou par diplôme pour faire vivre les associations d'anciens ;
+ 				Mettre en évidence des personnalités et des parcours réussis issus de l'URCA ;
+ 				Impliquer les diplômés dans le devenir de leur Université d'origine, les inciter à participer, notamment via la Fondation, à son financement ;
+ 				Développer les contacts à l’international en partenariat avec le Réseau France Alumni de Campus France."
 			</em>
 			<br/><br/>
 			<h5>Subscription</h5>
@@ -258,7 +272,7 @@
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
-			  <h5 class="media-heading">Why our customers satisfied?</h5>
+			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’URCA ?</h5>
 			  "To provide affordable web design and..."<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
 			</div>
@@ -268,8 +282,8 @@
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
-			  <h5 class="media-heading">Why our customers satisfied?</h5>
-			  "To provide affordable web design and..."<br/>
+			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
+			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
 			</div>
 		  </li>
@@ -278,8 +292,8 @@
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
-			  <h5 class="media-heading">Why our customers satisfied?</h5>
-			  "To provide affordable web design and..."<br/>
+			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
+			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
 			</div>
 		  </li>
@@ -288,8 +302,8 @@
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
-			  <h5 class="media-heading">Why our customers satisfied?</h5>
-			  "To provide affordable web design and..."<br/>
+			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
+			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
 			</div>
 		  </li>
@@ -300,33 +314,88 @@
 			<h4>Visit us</h4>
 			<address style="margin-bottom:15px;">
 			<strong><a href="index.html" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
-				194, Vectoria Street, Newwork <br>
-				nw 488, USA<br>
+				194, Yaounde Ngoa-ekelle <br>
+				bp 488, Cameroun<br>
 			</address>
-			Phone: <i class="icon-phone-sign"></i> &nbsp; 00123 456 000 789 <br>
-			Email: <a href="contact.html" title="contact"><i class="icon-envelope-alt"></i> info@companyltd.com</a><br/>
-			Link: <a href="index.html" title="Business ltd"><i class="icon-globe"></i> www.businessltd.com</a><br/><br/>
+			Phone: <i class="icon-phone-sign"></i> &nbsp; (+237)671402318 <br>
+			Email: <a href="contact.html" title="contact"><i class="icon-envelope-alt"></i> ratsa01@gmail.com</a><br/>
+			Link: <a href="index.html" title="Business ltd"><i class="icon-globe"></i> www.uninet.com</a><br/><br/>
 			<h5>Quick Links</h5>	
 			<a href="services.html" title="services"><i class="icon-cogs"></i> Services </a><br/>
 			<a href="about.html" title=""><i class="icon-info-sign"></i> About us </a><br/>
-			<a href="portfolio.html" title="portfolio"><i class="icon-question-sign"></i> Portfolio </a><br/>
+			<a href="portfolio.html" title="portfolio"><i class="icon-question-sign"></i> Agenda </a><br/>
 
-	<h5>Find us on</h5>	
+	<h5>Nous suivre sur :</h5>	
 	<div style="font-size:2.5em;">
-		<a href="index.html" title="" style="display:inline-block; width:1em"> <i class="icon-facebook-sign"> </i> </a> 
-		<a href="portfolio.html" title="" style="display:inline-block; width:1em"> <i class="icon-twitter-sign"> </i> </a>
-		<a href="services.html" title="" style="display:inline-block;width:1em"> <i class="icon-facetime-video"> </i> </a>
-		<a href="services.html" title="" style="display:inline-block;width:1em"> <i class="icon-google-plus-sign"> </i> </a>
-		<a href="about.html" title="" style="display:inline-block;width:1em" > <i class="icon-rss"> </i> </a>
+		<a href="#facebook" role="button" data-toggle="modal" style="display:inline-block; width:1em"> <i class="icon-facebook-sign"> </i> </a> 
+		<a href="#twitter" role="button" data-toggle="modal" title="" style="display:inline-block; width:1em"> <i class="icon-twitter-sign"> </i> </a>
+		<a href="#youtube" role="button" data-toggle="modal" style="display:inline-block;width:1em"> <i class="icon-facetime-video"> </i> </a>
+		<a href="#" title="" style="display:inline-block;width:1em"> <i class="icon-google-plus-sign"> </i> </a>
+		<a href="#rss" role="button" data-toggle="modal" style="display:inline-block;width:1em" > <i class="icon-rss"> </i> </a>
+		<!-- Facebook -->
+		<div id="facebook" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="facebook" aria-hidden="true">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h3>Facebook Header</h3>
+		  </div>
+		  <div class="modal-body">
+			<p>"Notre objectif est simple - Instaurer des actions de coaching et de mentorat pour les étudiants et les diplômés ;"</p>
+		  </div>
+		  <div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+			<button class="btn btn-primary">Save changes</button>
+		  </div>
+		</div>
+		<!-- Twitter -->
+		<div id="twitter" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="twitter" aria-hidden="true">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h3>Twitter Header</h3>
+		  </div>
+		  <div class="modal-body">
+			<p>"Notre objectif est simple - Instaurer des actions de coaching et de mentorat pour les étudiants et les diplômés ;"</p>
+		  </div>
+		  <div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+			<button class="btn btn-primary">Save changes</button>
+		  </div>
+		</div>
+		<!-- Rss feed -->
+		<div id="rss" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="rss" aria-hidden="true">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h3>RSS fed header</h3>
+		  </div>
+		  <div class="modal-body">
+			<p>""Notre objectif est simple - Instaurer des actions de coaching et de mentorat pour les étudiants et les diplômés ;"</p>
+		  </div>
+		  <div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+			<button class="btn btn-primary">Save changes</button>
+		  </div>
+		</div>
+		<!-- Youtube -->
+		<div id="youtube" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="youtube" aria-hidden="true">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h3>Youtube Vedio</h3>
+		  </div>
+		  <div class="modal-body">
+			Vedios here
+		  </div>
+		  <div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+			<button class="btn btn-primary">Save changes</button>
+		  </div>
+		</div>		
 	</div>
 	</div>
     </div>
 
-	<p style="padding:18px 0 44px">&copy; 2012, allright reserved </p>
+	<p style="padding:18px 0 44px">&copy; August 2017, allright reserved </p>
 	</footer>
     </div><!-- /container -->
 </section>
-
 <a href="#" class="btn" style="position: fixed; bottom: 38px; right: 10px; display: none; " id="toTop"> <i class="icon-arrow-up"></i> Go to top</a>
 <!-- Javascript
     ================================================== -->
@@ -337,6 +406,7 @@
 	<script src="themes/js/bootstrap-tooltip.js"></script>
     <script src="themes/js/bootstrap-popover.js"></script>
 	<script src="themes/js/business_ltd_1.0.js"></script>
+ 
 <!-- Themes switcher section ============================================================================================= -->
 <div id="secectionBox">
 <link rel="stylesheet" href="themes/switch/themeswitch.css" type="text/css" media="screen" />

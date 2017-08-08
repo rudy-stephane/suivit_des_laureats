@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -21,7 +21,40 @@
 	<div class="container">
 		<div class="navbar">
 			<div class="container">
-				<h1><a class="brand" href="index.html"> Business <small>  Ltd.</small></a></h1>
+				<button type="button" class="btn btn-navbar active" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				</button>
+				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
+				<div class="nav-collapse collapse">
+					<ul class="nav pull-right">
+						<li class="active"><a href="index.html">Acceuil	</a></li>
+						<li class=""><a href="services.html">Actualite</a></li>  
+						<li class=""><a href="about_us.html">Agenda</a></li>
+						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<ul class="dropdown-menu">
+								<li><a href="elements.html">Etudiant</a></li>
+								<li><a href="comingsoon.html">Responsable</a></li>
+								<li><a href="comingsoon.html">Laureat</a></li>
+								<li><a href="comingsoon.html">Promoteur</a></li>
+								<li><a href="comingsoon.html">Autres</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="elements.html">je recrute</a></li>
+								<li><a href="comingsoon.html">je suis en recherche</a></li>
+								<li><a href="comingsoon.html">Nomination</a></li>
+								<li><a href="comingsoon.html">mentorat</a></li>
+								<li><a href="comingsoon.html">initiatives</a></li>
+							</ul>
+						</li>
+						<li class=""><a href="blog.html">Blog</a></li>
+						<li class=""><a href="contact.html">Support</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -71,7 +104,7 @@
 	<!-- Facebook -->
 		<div id="facebook" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="facebook" aria-hidden="true">
 		  <div class="modal-header">
-			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Ã—</button>
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 			<h3>Facebook Header</h3>
 		  </div>
 		  <div class="modal-body">
@@ -85,7 +118,7 @@
 		<!-- Twitter -->
 		<div id="twitter" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="twitter" aria-hidden="true">
 		  <div class="modal-header">
-			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Ã—</button>
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 			<h3>Twitter Header</h3>
 		  </div>
 		  <div class="modal-body">
@@ -99,7 +132,7 @@
 		<!-- Rss feed -->
 		<div id="rss" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="rss" aria-hidden="true">
 		  <div class="modal-header">
-			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Ã—</button>
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 			<h3>RSS fed header</h3>
 		  </div>
 		  <div class="modal-body">
@@ -113,7 +146,7 @@
 		<!-- Youtube -->
 		<div id="youtube" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="youtube" aria-hidden="true">
 		  <div class="modal-header">
-			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Ã—</button>
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 			<h3>Youtube Vedio</h3>
 		  </div>
 		  <div class="modal-body">

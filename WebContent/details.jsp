@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -21,22 +21,34 @@
 	<div class="container">
 		<div class="navbar">
 			<div class="container">
-				<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<button type="button" class="btn btn-navbar active" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Business <small>  Ltd.</small></a></h1>
+				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class=""><a href="index.html">Home	</a></li>
-						<li class=""><a href="services.html">What we do?</a></li>  
-						<li class=""><a href="about_us.html">Who we are?</a></li>
-						<li class=""><a href="portfolio.html">Portfolio</a></li>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Features<b class="caret"></b></a>
+						<li class="active"><a href="index.html">Acceuil	</a></li>
+						<li class=""><a href="services.html">Actualite</a></li>  
+						<li class=""><a href="about_us.html">Agenda</a></li>
+						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<ul class="dropdown-menu">
+								<li><a href="elements.html">Etudiant</a></li>
+								<li><a href="comingsoon.html">Responsable</a></li>
+								<li><a href="comingsoon.html">Laureat</a></li>
+								<li><a href="comingsoon.html">Promoteur</a></li>
+								<li><a href="comingsoon.html">Autres</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">Page Elements</a></li>
-								<li><a href="comingsoon.html">Coming soon page</a></li>
+								<li><a href="elements.html">je recrute</a></li>
+								<li><a href="comingsoon.html">je suis en recherche</a></li>
+								<li><a href="comingsoon.html">Nomination</a></li>
+								<li><a href="comingsoon.html">mentorat</a></li>
+								<li><a href="comingsoon.html">initiatives</a></li>
 							</ul>
 						</li>
 						<li class=""><a href="blog.html">Blog</a></li>
@@ -79,14 +91,14 @@
   </ul>
 </div>
 <div class="alert alert-errir">
-		<button type="button" class="close" data-dismiss="alert">Ã—</button>
+		<button type="button" class="close" data-dismiss="alert">×</button>
 		<strong>Heads up!</strong>
 		<p> When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).
 		Our website prices below are complete - there are NO HIDDEN EXTRAS! 
 		</p>
 	</div>
 <div class="alert alert-success">
-		<button type="button" class="close" data-dismiss="alert">Ã—</button>
+		<button type="button" class="close" data-dismiss="alert">×</button>
 		<strong>Heads up!</strong>
 		<p>
 		This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
@@ -102,7 +114,7 @@
 	<h4><a href="#" title="my web solutions">Low Cost Mobile Web Design Price List (+ 10% to 20% OFF)</a></h4>
 	<img src="themes/images/carousel/services_dtl.jpg" alt="business templates" /><br/><br/>
 	<div class="alert alert-info">
-		<button type="button" class="close" data-dismiss="alert">Ã—</button>
+		<button type="button" class="close" data-dismiss="alert">×</button>
 		<strong>Heads up!</strong>
 		<p>This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
 		We do it all for you from start to finish. When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).

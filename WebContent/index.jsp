@@ -222,15 +222,7 @@
 			Beaucoup d'applications sont gratuites, d'autres, payantes (en général, quelques euros), certaines,
 			sont de grande qualité, d'autres, beaucoup moins.
 			</p>
-			<div class="btn-toolbar">
-			  <div class="btn-group toolTipgroup">
-				<a class="btn" href="#" data-placement="right" data-original-title="send email"><i class="icon-envelope"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
-				<a class="btn" href="portfolio.html" data-placement="left" data-original-title="browse"><i class="icon-globe"></i></a>
-			  </div>
-			</div>
+			
 		</div>
 	</div>
 	<div class="span4">
@@ -247,15 +239,7 @@
 			8 Principes de sécurité du système d’information
 			le système de réservation Amadeus, est un actif plus crucial que les avions.
 			 </p>
-			<div class="btn-toolbar">
-			  <div class="btn-group toolTipgroup">
-				<a class="btn" href="#" data-placement="right" data-original-title="send email"><i class="icon-envelope"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
-				<a class="btn" href="portfolio.html" data-placement="left" data-original-title="browse"><i class="icon-globe"></i></a>
-			  </div>
-			</div>
+			
 		</div>
 	</div>
 	<div class="span4">
@@ -273,15 +257,7 @@
 				eux ? ». Et c’est parti pour des progrès motivés et motivants  des jeunes diplomés par vous !
 				Le sourire et l’attention – tel est le secret de la réussite ! <br/>
 			 </p>
-			<div class="btn-toolbar">
-			  <div class="btn-group toolTipgroup">
-				<a class="btn" href="#" data-placement="right" data-original-title="send email"><i class="icon-envelope"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
-				<a class="btn" href="portfolio.html" data-placement="left" data-original-title="browse"><i class="icon-globe"></i></a>
-			  </div>
-			</div>
+			
 		</div>
 	</div>
 </div>
