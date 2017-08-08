@@ -29,23 +29,17 @@
 				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-<<<<<<< HEAD:WebContent/index.jsp
-						<li class="active"><a href="index.html">Acceuil	</a></li>  
-						<li class=""><a href="about_us.html">Agenda</a></li>
+
+						<li class="active"><a href="index.jsp">Acceuil	</a></li>  
+						<li class=""><a href="about_us.jsp">Agenda</a></li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Actualite<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">Evenements</a></li>
-								<li><a href="comingsoon.html">Agenda du reseau</a></li>
-								<li><a href="comingsoon.html">Temoignages et portrait</a></li>
+								<li><a href="elements.jsp">Evenements</a></li>
+								<li><a href="comingsoon.jsp">Agenda du reseau</a></li>
+								<li><a href="comingsoon.jsp">Temoignages et portrait</a></li>
 							</ul>
 						</li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Vous etes :<b class="caret"></b></a>
-=======
-						<li class="active"><a href="index.jsp">Acceuil	</a></li>
-						<li class=""><a href="services.jsp">Actualite</a></li>  
-						<li class=""><a href="about_us.jsp">Agenda</a></li>
-						<li class=""><a href="portfolio.jsp">Vous etes /</a>
->>>>>>> origin/dzita:WebContent/index.jsp
 						<ul class="dropdown-menu">
 								<li><a href="elements.jsp">Etudiant</a></li>
 								<li><a href="comingsoon.jsp">Responsable</a></li>
@@ -64,11 +58,7 @@
 								<li><a href="comingsoon.jsp">initiatives</a></li>
 							</ul>
 						</li>
-<<<<<<< HEAD:WebContent/index.jsp
-						<li class=""><a href="blog.html">Blog</a></li>
-=======
 						<li class=""><a href="blog.jsp">Blog</a></li>
->>>>>>> origin/dzita:WebContent/index.jsp
 						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
@@ -327,14 +317,9 @@
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
-			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’URCA ?</h5>
-<<<<<<< HEAD:WebContent/index.jsp
+			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
 			  Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
-=======
-			  "To provide affordable web design and..."<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
->>>>>>> origin/dzita:WebContent/index.jsp
 			</div>
 		  </li>
 		   <li class="media">
