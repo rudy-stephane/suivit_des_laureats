@@ -29,7 +29,6 @@
 				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-
 						<li class="active"><a href="index.jsp">Acceuil	</a></li>  
 						<li class=""><a href="about_us.jsp">Agenda</a></li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Actualite<b class="caret"></b></a>
@@ -229,7 +228,7 @@
 			Beaucoup d'applications sont gratuites, d'autres, payantes (en général, quelques euros), certaines,
 			sont de grande qualité, d'autres, beaucoup moins.
 			</p>
-			
+			<a href="details.jsp" >Read more</a>
 		</div>
 	</div>
 	<div class="span4">
@@ -246,7 +245,7 @@
 			8 Principes de sécurité du système d’information
 			le système de réservation Amadeus, est un actif plus crucial que les avions.
 			 </p>
-			
+			<a href="details.jsp" >Read more</a>
 		</div>
 	</div>
 	<div class="span4">
@@ -264,7 +263,7 @@
 				eux ? ». Et c’est parti pour des progrès motivés et motivants  des jeunes diplomés par vous !
 				Le sourire et l’attention – tel est le secret de la réussite ! <br/>
 			 </p>
-			
+			<a href="details.jsp" >Read more</a>
 		</div>
 	</div>
 </div>
@@ -318,7 +317,7 @@
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
-			  Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
+			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
