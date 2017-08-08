@@ -29,10 +29,16 @@
 				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class="active"><a href="index.html">Acceuil	</a></li>
-						<li class=""><a href="services.html">Actualite</a></li>  
+						<li class="active"><a href="index.html">Acceuil	</a></li>  
 						<li class=""><a href="about_us.html">Agenda</a></li>
-						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Actualite<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="elements.html">Evenements</a></li>
+								<li><a href="comingsoon.html">Agenda du reseau</a></li>
+								<li><a href="comingsoon.html">Temoignages et portrait</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Vous etes :<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 								<li><a href="elements.html">Etudiant</a></li>
 								<li><a href="comingsoon.html">Responsable</a></li>
@@ -52,7 +58,7 @@
 							</ul>
 						</li>
 						<li class=""><a href="blog.html">Blog</a></li>
-						<li class=""><a href="contact.html">Support</a></li>
+						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
 			</div>
@@ -307,15 +313,15 @@
 			<h4>Newsletter and Subscription</h4>
 			<h5>pourquoi devenir membre des alumni ?</h5>
 			<em>
-			"En rejoignant l’ALUMNI de l’Université de Reims Champagne-Ardenne, vous adhérez à une démarche solidaire qui vous relie à votre formation et à vos pairs, qui vous inclut dans le rayonnement de votre ancien établissement et vous permet de soutenir les étudiants dans leurs études ou dans leur insertion professionnelle." <br/><br/>
+			"En rejoignant l’ALUMNI de l’Université de Yaounde I, vous adhérez à une démarche solidaire qui vous relie à votre formation et à vos pairs, qui vous inclut dans le rayonnement de votre ancien établissement et vous permet de soutenir les étudiants dans leurs études ou dans leur insertion professionnelle." <br/><br/>
 			</em>
 			<h5>quels objectifs pratiques ?</h5>
 			<em>
 			"	Pour les étudiants en cursus, faciliter l'offre de stages, l'insertion professionnelle, la mobilité internationale grâce au réseau des diplômés, développer l’accompagnement (coaching, mentorat…) ;
  				Accompagner et soutenir les initiatives par campus, par filière ou par diplôme pour faire vivre les associations d'anciens ;
- 				Mettre en évidence des personnalités et des parcours réussis issus de l'URCA ;
+ 				Mettre en évidence des personnalités et des parcours réussis issus de leur formation ;
  				Impliquer les diplômés dans le devenir de leur Université d'origine, les inciter à participer, notamment via la Fondation, à son financement ;
- 				Développer les contacts à l’international en partenariat avec le Réseau France Alumni de Campus France."
+ 				Développer les contacts à l’international en partenariat avec le Réseau  Alumni de l'université de Yaounde I'."
 			</em>
 			<br/><br/>
 			<h5>Subscription</h5>
@@ -335,7 +341,7 @@
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’URCA ?</h5>
-			  "To provide affordable web design and..."<br/>
+			  Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
 			</div>
 		  </li>
