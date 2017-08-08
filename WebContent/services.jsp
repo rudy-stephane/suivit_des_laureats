@@ -1,4 +1,4 @@
-<!DOCTYPE jsp>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <!-- Le jsp5 shim, for IE6-8 support of jsp5 elements -->
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-    <script src="http://jsp5shim.googlecode.com/svn/trunk/jsp5.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	<link id="callCss" rel="stylesheet" href="themes/current/bootstrap.min.css" type="text/css" media="screen"/>
 	<link href="themes/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
@@ -26,15 +26,6 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-<<<<<<< HEAD:WebContent/contact.jsp
-				<h1><a class="brand" href="index.jsp"> Business <small>  Ltd.</small></a></h1>
-				<div class="nav-collapse collapse">
-					<ul class="nav pull-right">
-						<li class=""><a href="index.jsp">Home	</a></li>
-						<li class=""><a href="services.jsp">What we do?</a></li>  
-						<li class=""><a href="about_us.jsp">Who we are?</a></li>
-						<li class=""><a href="portfolio.jsp">Portfolio</a></li>
-=======
 				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
@@ -50,18 +41,9 @@
 								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
->>>>>>> origin/dzita:WebContent/contact.jsp
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-<<<<<<< HEAD:WebContent/contact.jsp
-								<li><a href="elements.jsp">Page Elements</a></li>
-								<li><a href="comingsoon.jsp">Coming soon page</a></li>
-							</ul>
-						</li>
-						<li class=""><a href="blog.jsp">Blog</a></li>
-						<li class="active"><a href="contact.jsp">Support</a></li>
-=======
 								<li><a href="elements.jsp">je recrute</a></li>
 								<li><a href="comingsoon.jsp">je suis en recherche</a></li>
 								<li><a href="comingsoon.jsp">Nomination</a></li>
@@ -71,7 +53,6 @@
 						</li>
 						<li class=""><a href="blog.jsp">Blog</a></li>
 						<li class=""><a href="contact.jsp">Support</a></li>
->>>>>>> origin/dzita:WebContent/contact.jsp
 					</ul>
 				</div>
 			</div>
@@ -79,99 +60,10 @@
 	</div>
 </section>
 <!--Header Ends================================================ -->
-<section id="monFormulaire"> 
-	<div class="row">
-                        <div class="col-sm-5">
-                        	
-                        	<div class="form-box">
-	                        	<div class="form-top">
-	                        		<div class="form-top-left">
-	                        			<h3>Login to our site</h3>
-	                            		<p>Enter username and password to log on:</p>
-	                        		</div>
-	                        		<div class="form-top-right">
-	                        			<i class="fa fa-key"></i>
-	                        		</div>
-	                            </div>
-	                            <div class="form-bottom">
-				                    <form role="form" action="" method="post" class="login-form">
-				                    	<div class="form-group">
-				                    		<label class="sr-only" for="form-username">Username</label>
-				                        	<input type="text" name="form-username" placeholder="Username..." class="form-username form-control" id="form-username">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-password">Password</label>
-				                        	<input type="password" name="form-password" placeholder="Password..." class="form-password form-control" id="form-password">
-				                        </div>
-				                        <button type="submit" class="btn">Sign in!</button>
-				                    </form>
-			                    </div>
-		                    </div>
-		                
-		                	<div class="social-login">
-	                        	<h3>...or login with:</h3>
-	                        	<div class="social-login-buttons">
-		                        	<a class="btn btn-link-1 btn-link-1-facebook" href="#">
-		                        		<i class="fa fa-facebook"></i> Facebook
-		                        	</a>
-		                        	<a class="btn btn-link-1 btn-link-1-twitter" href="#">
-		                        		<i class="fa fa-twitter"></i> Twitter
-		                        	</a>
-		                        	<a class="btn btn-link-1 btn-link-1-google-plus" href="#">
-		                        		<i class="fa fa-google-plus"></i> Google Plus
-		                        	</a>
-	                        	</div>
-	                        </div>
-	                        
-                        </div>
-                        
-                        <div class="col-sm-1 middle-border"></div>
-                        <div class="col-sm-1"></div>
-                        	
-                        <div class="col-sm-5">
-                        	
-                        	<div class="form-box">
-                        		<div class="form-top">
-	                        		<div class="form-top-left">
-	                        			<h3>Sign up now</h3>
-	                            		<p>Fill in the form below to get instant access:</p>
-	                        		</div>
-	                        		<div class="form-top-right">
-	                        			<i class="fa fa-pencil"></i>
-	                        		</div>
-	                            </div>
-	                            <div class="form-bottom">
-				                    <form role="form" action="" method="post" class="registration-form">
-				                    	<div class="form-group">
-				                    		<label class="sr-only" for="form-first-name">First name</label>
-				                        	<input type="text" name="form-first-name" placeholder="First name..." class="form-first-name form-control" id="form-first-name">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-last-name">Last name</label>
-				                        	<input type="text" name="form-last-name" placeholder="Last name..." class="form-last-name form-control" id="form-last-name">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-email">Email</label>
-				                        	<input type="text" name="form-email" placeholder="Email..." class="form-email form-control" id="form-email">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-about-yourself">About yourself</label>
-				                        	<textarea name="form-about-yourself" placeholder="About yourself..." 
-				                        				class="form-about-yourself form-control" id="form-about-yourself"></textarea>
-				                        </div>
-				                        <button type="submit" class="btn">Sign me up!</button>
-				                    </form>
-			                    </div>
-                        	</div>
-                        	
-                        </div>
-                    </div>	
-</section>
 <!-- Page banner -->
-<!--
 <section id="bannerSection" style="background:url(themes/images/banner/contact.png) no-repeat center center #000;">
 	<div class="container" >	
-		<h1 id="pageTitle">Contact <small> :We love to hear from you</small> 
+		<h1 id="pageTitle">Our Services <small> :We believe in quality services</small> 
 		<span class="pull-right toolTipgroup">
 			<a href="#" data-placement="top" data-original-title="Find us on via facebook"><img style="width:45px" src="themes/images/facebook.png" alt="facebook" title="facebook"></a>
 			<a href="#" data-placement="top" data-original-title="Find us on via twitter"><img style="width:45px" src="themes/images/twitter.png" alt="twitter" title="twitter"></a>
@@ -180,10 +72,158 @@
 		</h1>
 	</div>
 </section> 
--->
 <!-- Page banner end -->
+<section id="bodySection">		
+	<div id="wrapper">
+		<div class="container">	
+		<div class="row">
+			<div class="span4">
+				<div class="thumbnail">
+					<h4>Web Design</h4>
+					<h5>Your Website represents You...</h5>
+					  <div class="btn-group toolTipgroup">
+						<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+						<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+					  </div>
+					<ul class="unstyled">
+						<li>Website Design</li>
+						<li>PSD To XHTML &amp; CSS Conversion</li>
+						<li>Graphic Design (Coverpage, Logo, Brocer etc.)</li>
+					</ul>
+					<p>
+						<a href="details.jsp" >Read more</a>
+					</p>
+				</div>
+				<br/>
+				<div class="thumbnail">
+					<h4>Webpage Customizations</h4>
+					<h5>Drive your business in The Fast Track...</h5>
+						<div class="btn-group toolTipgroup">
+							<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+							<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+						</div>
+						<ul class="unstyled">
+							<li> Customizing different websites  </li>
+							<li> E-commersesite, Blogs and Forums etc.</li>
+							<li> Customization web packages </li>
+						</ul>
+					<p><a href="details.jsp" >Read more</a></p>
+				</div>
+				<br/>
+				<div class="thumbnail">
+					<h4>SEO</h4>
+					<h5>For any online activities  ... </h5>
+					<div class="btn-group toolTipgroup">
+						<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+						<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+					</div>
+					<ul class="unstyled">
+						<li>PSD to XHTML and CSS Conversion</li>
+						<li> Updating old website to new generation. </li>
+						<li> Compitable with different Browser. </li>
+					</ul>
+					<p><a href="details.jsp" >Read more</a></p>
+				</div>
+			</div>
+			<div class="span4">
+			<div class="thumbnail">
+				<h4>Website Development</h4>
+				<h5>For any online activities  ... </h5>
+				<div class="btn-group toolTipgroup">
+					<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+					<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+				  </div>
+				<ul class="unstyled">
+					<li>PSD to XHTML and CSS Conversion</li>
+					<li> Updating old website to new generation. </li>
+					<li> Compitable with different Browser. </li>
+				</ul>
+				<p><a href="details.jsp" >Read more</a></p>
+			</div>
+			<br/>
+			<div class="thumbnail">
+				<h4>Webpage Customizations</h4>
+				<h5>Drive your business in The Fast Track...</h5>
+				<div class="btn-group toolTipgroup">
+					<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+					<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+				  </div>
+					<ul class="unstyled">
+						<li> Customizing different websites  </li>
+						<li> E-commersesite, Blogs and Forums etc.</li>
+						<li> Customization web packages </li>
+					</ul>
+				<p><a href="details.jsp" >Read more</a></p>
+			</div>
+			<br/>
 
- <!-- Footer
+			<div class="thumbnail">
+				<h4>Optimizations</h4>
+				<h5>For any online activities  ... </h5>
+				<div class="btn-group toolTipgroup">
+					<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+					<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+				  </div>
+				<ul class="unstyled">
+					<li>PSD to XHTML and CSS Conversion</li>
+					<li> Updating old website to new generation. </li>
+					<li> Compitable with different Browser. </li>
+				</ul>
+				<p><a href="details.jsp" >Read more</a></p>
+			</div>
+			</div>
+			<div class="span4">
+			<div class="thumbnail">
+				<h4>Webpage Customizations</h4>
+				<h5>Drive your business in The Fast Track...</h5>
+				<div class="btn-group toolTipgroup">
+					<a class="btn" href="#"  data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+					<a class="btn" href="#"  data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+				</div>
+				<ul class="unstyled">
+					<li> Customizing different websites  </li>
+					<li> E-commersesite, Blogs and Forums etc.</li>
+					<li> Customization web packages </li>
+				</ul>
+				<p><a href="details.jsp" >Read more</a></p>
+			</div>
+			<br/>
+			<div class="thumbnail">
+				<h4>Webpage Customizations</h4>
+				<h5>Drive your business in The Fast Track...</h5>
+				<div class="btn-group toolTipgroup">
+					<a class="btn" href="#"  data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+					<a class="btn" href="#"  data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+				  </div>
+					<ul class="unstyled">
+						<li> Customizing different websites  </li>
+						<li> E-commersesite, Blogs and Forums etc.</li>
+						<li> Customization web packages </li>
+					</ul>
+				<p><a href="details.jsp" >Read more</a></p>
+			</div>
+			<br/>
+			<div class="thumbnail">
+				<h4>Multimedia</h4>
+				<h5>For any online activities  ... </h5>
+				<div class="btn-group toolTipgroup">
+						<a class="btn" href="#"  data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+						<a class="btn" href="#"  data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+					  </div>
+				<ul class="unstyled">
+					<li>PSD to XHTML and CSS Conversion</li>
+					<li> Updating old website to new generation. </li>
+					<li> Compitable with different Browser. </li>
+				</ul>
+				<p><a href="details.jsp" >Read more</a></p>
+			</div>
+			</div>
+		</div>
+		<br/>
+		</div>
+	</div>
+</section>
+  <!-- Footer
   ================================================== -->
 <section id="footerSection">
 <div class="container">
@@ -285,6 +325,7 @@
 	</footer>
     </div><!-- /container -->
 </section>
+
 <a href="#" class="btn" style="position: fixed; bottom: 38px; right: 10px; display: none; " id="toTop"> <i class="icon-arrow-up"></i> Go to top</a>
 <!-- Javascript
     ================================================== -->
@@ -295,34 +336,6 @@
 	<script src="themes/js/bootstrap-tooltip.js"></script>
     <script src="themes/js/bootstrap-popover.js"></script>
 	<script src="themes/js/business_ltd_1.0.js"></script>
- 
-	 <!-- Google map jquery files -->
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-	<script src="themes/js/jquery.gmap.js"></script>
-	<script>
-		// Google map data ==============================================================================
-	  $(document).ready(function(){
-		$("#myMap").gMap({ controls: false,
-						  scrollwheel: false,
-			  draggable: true,
-		  markers: [{ latitude: 37.748582,  		//your company location latitude 
-					  longitude: -122.418411,		//your company location longitude
-					  icon: { image: "http://www.google.com/mapfiles/marker.png",
-							  iconsize: [42, 48],
-							  iconanchor: [42,48],
-							  infowindowanchor: [14, 0] } },
-					],
-		  icon: { image: "http://www.google.com/mapfiles/marker.png", 
-				  iconsize: [28, 48],
-				  iconanchor: [14, 48],
-				  infowindowanchor: [14, 0] },
-		  latitude: 37.748582,
-		  longitude: -122.418411,
-		  zoom: 16, });
-	  });
-	</script>
-	
-
 <!-- Themes switcher section ============================================================================================= -->
 <div id="secectionBox">
 <link rel="stylesheet" href="themes/switch/themeswitch.css" type="text/css" media="screen" />

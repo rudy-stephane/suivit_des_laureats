@@ -1,4 +1,4 @@
-<!DOCTYPE jsp>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <!-- Le jsp5 shim, for IE6-8 support of jsp5 elements -->
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-    <script src="http://jsp5shim.googlecode.com/svn/trunk/jsp5.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	<link id="callCss" rel="stylesheet" href="themes/current/bootstrap.min.css" type="text/css" media="screen"/>
 	<link href="themes/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
@@ -26,15 +26,6 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-<<<<<<< HEAD:WebContent/contact.jsp
-				<h1><a class="brand" href="index.jsp"> Business <small>  Ltd.</small></a></h1>
-				<div class="nav-collapse collapse">
-					<ul class="nav pull-right">
-						<li class=""><a href="index.jsp">Home	</a></li>
-						<li class=""><a href="services.jsp">What we do?</a></li>  
-						<li class=""><a href="about_us.jsp">Who we are?</a></li>
-						<li class=""><a href="portfolio.jsp">Portfolio</a></li>
-=======
 				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
@@ -50,18 +41,9 @@
 								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
->>>>>>> origin/dzita:WebContent/contact.jsp
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-<<<<<<< HEAD:WebContent/contact.jsp
-								<li><a href="elements.jsp">Page Elements</a></li>
-								<li><a href="comingsoon.jsp">Coming soon page</a></li>
-							</ul>
-						</li>
-						<li class=""><a href="blog.jsp">Blog</a></li>
-						<li class="active"><a href="contact.jsp">Support</a></li>
-=======
 								<li><a href="elements.jsp">je recrute</a></li>
 								<li><a href="comingsoon.jsp">je suis en recherche</a></li>
 								<li><a href="comingsoon.jsp">Nomination</a></li>
@@ -71,7 +53,6 @@
 						</li>
 						<li class=""><a href="blog.jsp">Blog</a></li>
 						<li class=""><a href="contact.jsp">Support</a></li>
->>>>>>> origin/dzita:WebContent/contact.jsp
 					</ul>
 				</div>
 			</div>
@@ -79,99 +60,10 @@
 	</div>
 </section>
 <!--Header Ends================================================ -->
-<section id="monFormulaire"> 
-	<div class="row">
-                        <div class="col-sm-5">
-                        	
-                        	<div class="form-box">
-	                        	<div class="form-top">
-	                        		<div class="form-top-left">
-	                        			<h3>Login to our site</h3>
-	                            		<p>Enter username and password to log on:</p>
-	                        		</div>
-	                        		<div class="form-top-right">
-	                        			<i class="fa fa-key"></i>
-	                        		</div>
-	                            </div>
-	                            <div class="form-bottom">
-				                    <form role="form" action="" method="post" class="login-form">
-				                    	<div class="form-group">
-				                    		<label class="sr-only" for="form-username">Username</label>
-				                        	<input type="text" name="form-username" placeholder="Username..." class="form-username form-control" id="form-username">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-password">Password</label>
-				                        	<input type="password" name="form-password" placeholder="Password..." class="form-password form-control" id="form-password">
-				                        </div>
-				                        <button type="submit" class="btn">Sign in!</button>
-				                    </form>
-			                    </div>
-		                    </div>
-		                
-		                	<div class="social-login">
-	                        	<h3>...or login with:</h3>
-	                        	<div class="social-login-buttons">
-		                        	<a class="btn btn-link-1 btn-link-1-facebook" href="#">
-		                        		<i class="fa fa-facebook"></i> Facebook
-		                        	</a>
-		                        	<a class="btn btn-link-1 btn-link-1-twitter" href="#">
-		                        		<i class="fa fa-twitter"></i> Twitter
-		                        	</a>
-		                        	<a class="btn btn-link-1 btn-link-1-google-plus" href="#">
-		                        		<i class="fa fa-google-plus"></i> Google Plus
-		                        	</a>
-	                        	</div>
-	                        </div>
-	                        
-                        </div>
-                        
-                        <div class="col-sm-1 middle-border"></div>
-                        <div class="col-sm-1"></div>
-                        	
-                        <div class="col-sm-5">
-                        	
-                        	<div class="form-box">
-                        		<div class="form-top">
-	                        		<div class="form-top-left">
-	                        			<h3>Sign up now</h3>
-	                            		<p>Fill in the form below to get instant access:</p>
-	                        		</div>
-	                        		<div class="form-top-right">
-	                        			<i class="fa fa-pencil"></i>
-	                        		</div>
-	                            </div>
-	                            <div class="form-bottom">
-				                    <form role="form" action="" method="post" class="registration-form">
-				                    	<div class="form-group">
-				                    		<label class="sr-only" for="form-first-name">First name</label>
-				                        	<input type="text" name="form-first-name" placeholder="First name..." class="form-first-name form-control" id="form-first-name">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-last-name">Last name</label>
-				                        	<input type="text" name="form-last-name" placeholder="Last name..." class="form-last-name form-control" id="form-last-name">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-email">Email</label>
-				                        	<input type="text" name="form-email" placeholder="Email..." class="form-email form-control" id="form-email">
-				                        </div>
-				                        <div class="form-group">
-				                        	<label class="sr-only" for="form-about-yourself">About yourself</label>
-				                        	<textarea name="form-about-yourself" placeholder="About yourself..." 
-				                        				class="form-about-yourself form-control" id="form-about-yourself"></textarea>
-				                        </div>
-				                        <button type="submit" class="btn">Sign me up!</button>
-				                    </form>
-			                    </div>
-                        	</div>
-                        	
-                        </div>
-                    </div>	
-</section>
 <!-- Page banner -->
-<!--
-<section id="bannerSection" style="background:url(themes/images/banner/contact.png) no-repeat center center #000;">
+<section id="bannerSection" style="background:url(themes/images/banner/blog.png) no-repeat center center #000;">
 	<div class="container" >	
-		<h1 id="pageTitle">Contact <small> :We love to hear from you</small> 
+		<h1 id="pageTitle">Blog > details
 		<span class="pull-right toolTipgroup">
 			<a href="#" data-placement="top" data-original-title="Find us on via facebook"><img style="width:45px" src="themes/images/facebook.png" alt="facebook" title="facebook"></a>
 			<a href="#" data-placement="top" data-original-title="Find us on via twitter"><img style="width:45px" src="themes/images/twitter.png" alt="twitter" title="twitter"></a>
@@ -180,9 +72,209 @@
 		</h1>
 	</div>
 </section> 
--->
 <!-- Page banner end -->
+<section id="bodySection">
+<div class="container">					
+<div class="row">						
+<div class="span9">						
+<div class="well well-small" style="text-align:left;">
+<h3><a href="#" title="my web solutions">Low Cost Mobile Web Design Price List (+ 10% to 20% OFF)</a></h3>
+<p class="meta">Added by <a href="#" title="Posts by admin">admin</a> on <a href="#">November 14th, 2012</a>, filed under 
+<a href="#" title="View all posts in Category 3">Design </a></p>
+<p><img src="themes/images/blog/2.jpg" alt="business templates" ></p>
+<p>This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
+We do it all for you from start to finish. When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).
+Our website prices below are complete - there are NO HIDDEN EXTRAS!<br/><br/>
 
+This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
+We do it all for you from start to finish. When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).
+Our website prices below are complete - there are NO HIDDEN EXTRAS! 
+<br/>
+<br/>
+<br/>
+This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
+We do it all for you from start to finish. When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).
+Our website prices below are complete - there are NO HIDDEN EXTRAS! [<a href="#">More Details</a>]
+</p>
+
+ <div class="btn-toolbar">
+  <div class="btn-group toolTipgroup">
+    <a class="btn" href="blog.jsp" data-placement="top" data-original-title="Previous"><i class=" icon-arrow-left"></i></a>
+    <a class="btn" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
+    <a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+    <a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+    <a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
+    <a class="btn" href="#" data-placement="botom" data-original-title="print"><i class="icon-print"></i></a>
+    <a class="btn" href="blog_details.jsp" data-placement="top" data-original-title="Next"><i class=" icon-arrow-right"></i></a>
+  </div>
+</div>
+<br/>
+<h3>Coments <small>(5)</small></h3>
+<div class="media">
+<div class="well well-mini">
+		<a class="pull-left" href="#">
+		<img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
+	  </a>
+  <div class="media-body">
+    <h6 class="media-heading">Sonia</h6>
+		" I can confirm, bougth the theme a couple of days afo and it is really fantastic. Very flexible, very good support. I really like it." 
+	  <div class="btn-group toolTipgroup">
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="Reply">Reply</a>
+	</div>
+    </div>
+</div>
+</div>
+<div class="media">
+<div class="well well-mini">
+		<a class="pull-left" href="#">
+		<img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
+	  </a>
+  <div class="media-body">
+    <h6 class="media-heading">Sonia</h6>
+		" I can confirm, bougth the theme a couple of days afo and it is really fantastic. Very flexible, very good support. I really like it." 
+	  <div class="btn-group toolTipgroup">
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="Reply">Reply</a>
+	</div>
+    </div>
+</div>
+</div>
+<div class="media">
+<div class="well well-mini">
+		<a class="pull-left" href="#">
+		<img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
+	  </a>
+  <div class="media-body">
+    <h6 class="media-heading">Sonia</h6>
+		" I can confirm, bougth the theme a couple of days afo and it is really fantastic. Very flexible, very good support. I really like it." 
+	  <div class="btn-group toolTipgroup">
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="Reply">Reply</a>
+	</div>
+    </div>
+</div>
+</div>
+<div class="media">
+<div class="well well-mini">
+		<a class="pull-left" href="#">
+		<img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
+	  </a>
+  <div class="media-body">
+    <h6 class="media-heading">Sonia</h6>
+		" I can confirm, bougth the theme a couple of days afo and it is really fantastic. Very flexible, very good support. I really like it." 
+	  <div class="btn-group toolTipgroup">
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+		<a class="btn btn-mini" href="#" data-placement="top" data-original-title="Reply">Reply</a>
+	</div>
+    </div>
+</div>
+</div>
+
+</div>
+<div class="well well-small" style="text-align:left">
+<h4>Add Comment</h4>
+<form>
+	<div class="row-fluid">
+		<div class="span6">
+			<input type="text" class="input-xxlarge" placeholder="Name" name="name">
+		</div>
+	</div>
+	<div class="row-fluid">    
+		<div class="span6">
+			<input type="text" class="input-xxlarge" placeholder="Email" name="email">
+		</div>
+	</div>
+	<div class="row-fluid">
+		<div class="span6">
+			<textarea class="input-xxlarge" placeholder="Comments" rows="7"></textarea>
+		</div>
+	</div>
+	<div class="row-fluid">
+		<div class="span6">
+			<a href="#" class="btn">Add comment</a>
+		</div>
+	</div>
+</form>
+</div>
+<br/>
+</div>
+
+<!-- Sidebar comumn -->
+<div class="span3">
+<div class="well well-small">
+<h4>Categories</h4>
+<ul class="nav nav-tabs nav-stacked">
+	<li class="active"><a href="#">ALL</a></li>
+	<li><a href="#">Design (14)</a></li>
+	<li><a href="#">SEO (18)</a></li>
+	<li><a href="#">Development (8)</a></li>
+	<li><a href="#">Optimizations (4)</a></li>
+	<li><a href="#">Customizations (18)</a></li>
+	<li><a href="#">Media</a></li>
+  </ul>
+</div>
+<div class="thumbnail">
+	<a href="#" target="_blank" ><img src="themes/images/portfolio/mywebsolution.jpg" alt="bootstrap business templates"/></a>
+	<h4>My web solution</h4>
+	<p>Our aim is simple - to provide affordable web design and development services for different devices., </p>
+	<div class="btn-toolbar">
+	   <div class="btn-group toolTipgroup">
+		<a class="btn" href="#" data-placement="right" data-original-title="send email"><i class="icon-envelope"></i></a>
+		<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+		<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+		<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
+		<a href="http://mywebsolution.info" target="_blank" class="btn" data-placement="left" data-original-title="browse"><i class="icon-globe"></i></a>
+	  </div>
+	</div>
+</div>
+<br/>
+<div class="well well-small">
+<h4>Popular Posts</h4>
+<ul class="nav nav-tabs nav-stacked">
+<li class="active"><a href="#">Customizations</a></li>
+<li><a href="#">Media</a></li>
+</ul>
+</div>
+
+<div class="well well-small">
+<h4>Archives</h4>
+<ul class="nav nav-tabs nav-stacked">
+<li class="active"><a href="#">November 2012 (10)</a></li>
+<li><a href="#">October 2012 (19)</a></li>
+<li><a href="#">September 2012 (19)</a></li>
+<li><a href="#">August 2012 (22)</a></li>
+<li><a href="#">July 2012 (25)</a></li>
+<li><a href="#">June 2012 (19)</a></li>
+<li><a href="#">May 2012 (27)</a></li>
+<li><a href="#">April 2012 (15)</a></li>
+<li><a href="#">More...</a></li>
+</ul>
+</div>
+
+<div class="well well-small">
+<h4>Tag</h4>
+	<a class="btn btn-mini" href="#">Business</a>
+	<a class="btn btn-mini" href="#">Computer</a>
+	<a class="btn btn-mini" href="#">Mobile</a>
+	<a class="btn btn-mini" href="#">Website</a>
+	<a class="btn btn-mini" href="#">Software</a>
+	<a class="btn btn-mini" href="#">Html and css</a>
+	<a class="btn btn-mini" href="#">php</a>
+	<a class="btn btn-mini" href="#">Media</a>
+</div>
+</div>
+</div>
+</div>
+</section>
  <!-- Footer
   ================================================== -->
 <section id="footerSection">
@@ -285,6 +377,7 @@
 	</footer>
     </div><!-- /container -->
 </section>
+
 <a href="#" class="btn" style="position: fixed; bottom: 38px; right: 10px; display: none; " id="toTop"> <i class="icon-arrow-up"></i> Go to top</a>
 <!-- Javascript
     ================================================== -->
@@ -295,34 +388,6 @@
 	<script src="themes/js/bootstrap-tooltip.js"></script>
     <script src="themes/js/bootstrap-popover.js"></script>
 	<script src="themes/js/business_ltd_1.0.js"></script>
- 
-	 <!-- Google map jquery files -->
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-	<script src="themes/js/jquery.gmap.js"></script>
-	<script>
-		// Google map data ==============================================================================
-	  $(document).ready(function(){
-		$("#myMap").gMap({ controls: false,
-						  scrollwheel: false,
-			  draggable: true,
-		  markers: [{ latitude: 37.748582,  		//your company location latitude 
-					  longitude: -122.418411,		//your company location longitude
-					  icon: { image: "http://www.google.com/mapfiles/marker.png",
-							  iconsize: [42, 48],
-							  iconanchor: [42,48],
-							  infowindowanchor: [14, 0] } },
-					],
-		  icon: { image: "http://www.google.com/mapfiles/marker.png", 
-				  iconsize: [28, 48],
-				  iconanchor: [14, 48],
-				  infowindowanchor: [14, 0] },
-		  latitude: 37.748582,
-		  longitude: -122.418411,
-		  zoom: 16, });
-	  });
-	</script>
-	
-
 <!-- Themes switcher section ============================================================================================= -->
 <div id="secectionBox">
 <link rel="stylesheet" href="themes/switch/themeswitch.css" type="text/css" media="screen" />

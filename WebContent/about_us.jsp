@@ -1,8 +1,8 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>ALUMNI</title>
+    <title>Business clean web templates</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -29,23 +29,10 @@
 				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-<<<<<<< HEAD:WebContent/index.jsp
-						<li class="active"><a href="index.html">Acceuil	</a></li>  
-						<li class=""><a href="about_us.html">Agenda</a></li>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Actualite<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li><a href="elements.html">Evenements</a></li>
-								<li><a href="comingsoon.html">Agenda du reseau</a></li>
-								<li><a href="comingsoon.html">Temoignages et portrait</a></li>
-							</ul>
-						</li>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Vous etes :<b class="caret"></b></a>
-=======
 						<li class="active"><a href="index.jsp">Acceuil	</a></li>
 						<li class=""><a href="services.jsp">Actualite</a></li>  
 						<li class=""><a href="about_us.jsp">Agenda</a></li>
 						<li class=""><a href="portfolio.jsp">Vous etes /</a>
->>>>>>> origin/dzita:WebContent/index.jsp
 						<ul class="dropdown-menu">
 								<li><a href="elements.jsp">Etudiant</a></li>
 								<li><a href="comingsoon.jsp">Responsable</a></li>
@@ -64,11 +51,7 @@
 								<li><a href="comingsoon.jsp">initiatives</a></li>
 							</ul>
 						</li>
-<<<<<<< HEAD:WebContent/index.jsp
-						<li class=""><a href="blog.html">Blog</a></li>
-=======
 						<li class=""><a href="blog.jsp">Blog</a></li>
->>>>>>> origin/dzita:WebContent/index.jsp
 						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
@@ -77,219 +60,181 @@
 	</div>
 </section>
 <!--Header Ends================================================ -->
-<section id="carouselSection" style="text-align:center">
-	<div id="myCarousel" class="carousel slide">
-			<div class="carousel-inner">
-				<div  style="text-align:center"  class="item active">
-					<div class="wrapper"><img src="themes/images/carousel/business_website_templates_1.jpg" alt="business webebsite template">
-					<div class="carousel-caption">
-                      <h2>le reseau des Alumni</h2>
-                     <p>Diplômé de l'université de yaoundé I, vous faites aujourd’hui partie du réseau des Alumni. Vous avez à cœur de maintenir un lien avec votre école, de la soutenir à différents niveaux, notamment par vos apports d’expertise et de compétences, au-delà même des liens de camaraderie et de votre participation à un réseau qui compte plus de 25000 membres, vous contribuerez également à la pérennité de l’Université  et vous en resterez des acteurs solidaires.</p>
-					  <a href="services.jsp" class="btn btn-large btn-success">Read more</a>
-                    </div>
-					</div>
-				</div>
-				<div  style="text-align:center"  class="item">
-					<div class="wrapper"><img src="themes/images/carousel/business_website_templates_2.jpg" alt="business themes">
-					<div class="carousel-caption">
-                      <h2>Cultivez votre réseau</h2>
-                      <p>L’agenda des Alumni propose de nombreux rendez-vous professionnels :<br/> rencontre des Clubs Pro’ sur diverses thématiques<br/> manifestations à l’international <br/>apéritifs citadins…</p>
-					  <a href="about_us.jsp" class="btn btn-large btn-success">Read more</a>
-                    </div>
-					</div>
-				</div>
-				<div  style="text-align:center"  class="item">
-					<div class="wrapper"><img src="themes/images/carousel/business_website_templates_3.jpg" alt="business themes">
-					<div class="carousel-caption">
-                       <h2>En direct de votre école</h2>
-                     <p>Restez au courant de l’actualité de votre école ! Votre école change. Suivez son évolution via les actualités. Rencontres, conférences, événements, il y a toujours une bonne raison de rester en lien avec son école. Suivre l’actualité de votre école.</p>
-					  <a href="portfolio.jsp" class="btn btn-large btn-success">Notre Agenda</a>
-                    </div>
-					</div>
-				</div>
-				<div  style="text-align:center"  class="item">
-					<div class="wrapper"><img src="themes/images/carousel/business_website_templates_4.jpg" alt="business themes">
-					<div class="carousel-caption">
-                      <h2>Blog</h2>
-                     <p>Recruter, s’impliquer dans l’univers de la formation, dans la valorisation de l’entreprise auprès des étudiants : autant de ressources qui vous sont offertes. Plus d’infos au clic !<br/> Recrutez un stagiaire<br/> Recrutez un apprenti<br/> Recrutez un diplômé</p>
-					  <a href="blog.jsp" class="btn btn-large btn-success">Recent NEWS</a>
-                    </div>
-					</div>
-				</div>
-				<div  style="text-align:center"  class="item">
-					<div class="wrapper"><img src="themes/images/carousel/business_website_templates_5.jpg" alt="business themes">
-					<div class="carousel-caption">
-                      <h2>Besoin d'aide?</h2>
-                     <p>L'Alumni, c'est une approche rénovée des réseaux d'anciens. Très développé en Grande-Bretagne et en Amérique du Nord, l'Alumni préserve et cultive le lien des diplômés avec l'établissement qui les a instruits. Par sa proximité avec la vie des campus, par les soutiens collectés et l'accompagnement des étudiants, 
-                     l'Alumni est un véritable levier de la performance et du rayonnement universitaires.
-                     Plus fréquente dans les grandes écoles, la culture de l'Alumni est naissante dans les universités françaises. L'URCA s'est lancée ce défi d'être parmi les premières universités de l'Hexagone à mettre en place son Alumni.</p>
-					  <a href="contact.jsp" class="btn btn-large btn-success">Contact us</a>
-                    </div>
-					</div>
-				</div>
-			</div>
-			<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-			<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
-		</div>
-</section>
-<!-- Sectionone ends ======================================== -->
-<section id="middleSection">
-<div class="container">
-		<div class="row" style="text-align:center">
-			<div class="span12">
+<!-- Page banner -->
+<section id="bannerSection" style="background:url(themes/images/banner/aboutus.png) no-repeat center center #000;">
+	<div class="container" >	
+		<h1 id="pageTitle">About us 
+		<span class="pull-right toolTipgroup">
+			<a href="#" data-placement="top" data-original-title="Find us on via facebook"><img style="width:45px" src="themes/images/facebook.png" alt="facebook" title="facebook"></a>
+			<a href="#" data-placement="top" data-original-title="Find us on via twitter"><img style="width:45px" src="themes/images/twitter.png" alt="twitter" title="twitter"></a>
+			<a href="#" data-placement="top" data-original-title="Find us on via youtube"><img style="width:45px" src="themes/images/youtube.png" alt="youtube" title="youtube"></a>
+		</span>
+		</h1>
+	</div>
+</section> 
+<!-- Page banner end -->
+<section id="bodySection">	
+	<div class="container">	
+	<div class="row">
+		<div class="span3">
 			<div class="well well-small">
-				<h4>Notre objectif</h4>
-				<p>"Valorisation des diplômes, appui aux nouveaux étudiants, relais d'influence, notoriété et rayonnement de l'Université... vous aussi, soutenez les réussites futures en rejoignant le Réseau ALUMNI des diplômés de l'Université de yaounde I"<br/><br/></p>
+				<h3>Welcome!</h3>
+				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/><br/>
+
+				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone.
+				 If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+				then just remember us and makes your dream success.<br/><strong> We are giving the best solution for your best value of money.</strong>
 			</div>
-			</div>
-			<div class="span2">
-				<div class="well well-small">
-					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" "
-					 data-original-title="Les laureats de la FS" style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-magic"></i>
-					<span><br/>FS</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>
-			<div class="span2">
-				<div class="well well-small">
-					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSE" style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-link"></i>
-					<span><br/>FSE</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>
-			<div class="span2">
-				<div class="well well-small">
-					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FALSH " style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-cogs"></i>
-					<span><br/>FALSH</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>
-			<div class="span2">
-				<div class="well well-small">
-					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSMB" style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-wrench"></i>
-					<span><br/>FSMB</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>
-			<div class="span2">
-				<div class="well well-small">
-					<h4>
-					<a href="portfolio.jsp" id="poverone"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENS" style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-beaker"></i>
-					<span><br/>ENS</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>
-			<div class="span2">
-				<div class="well well-small">
-					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENSP" style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
-					<span><br/>ENSP</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>
-			<div class="span2" style="margin-left:50%;">
-				<div class="well well-small" >
-					<h4>
-					<a href="./portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la IUT" style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
-					<span><br/>IUT</span>
-					</a>
-					</h4>
-					<a href="details.jsp"><small>view details</small></a>
-				</div>
-			</div>	
-		</div>
-		</div>
-</section>
-<section id="bodySection">
-<div class="container">
-<div class="row">
-	<h3 class="span12" style="text-align:center">Evenement recents <small>view all projects (200+)</small></h3>
-	<div class="span4">
-		<div class="thumbnail">
-			<h4>Developpement Android</h4>
-			<a href="portfolio.jsp"><img src="themes/images/1.jpg" alt="bootstrap business templates"></a>
-			<p>
 			<br/>
-			Des milliers (voir beaucoup plus !) de personnes (plus ou moins professionnelles) développent des
-			applications sous Android. Beaucoup de ces applications se retrouvent sur le grand supermarché des
-			applications Android mis en place par Google : l'Android Market.
-			Beaucoup d'applications sont gratuites, d'autres, payantes (en général, quelques euros), certaines,
-			sont de grande qualité, d'autres, beaucoup moins.
+			<div class="thumbnail">
+				<a href="http://mywebsolution.info" target="_blank" ><img src="themes/images/portfolio/mywebsolution.jpg" alt="bootstrap business templates"></a>
+				<h4>My web solution</h4>
+				<p>Our aim is simple - to provide affordable web design and development services for different devices., </p>
+				<div class="btn-toolbar">
+				   <div class="btn-group toolTipgroup">
+					<a class="btn" href="#" data-placement="right" data-original-title="send email"><i class="icon-envelope"></i></a>
+					<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+					<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+					<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
+					<a href="http://mywebsolution.info" target="_blank" class="btn" data-placement="left" data-original-title="browse"><i class="icon-globe"></i></a>
+				  </div>
+				</div>
+			</div>
+			<br/>
+			<h4>Testimonials</h4>
+			<ul class="media-list">
+			   <li class="media well well-small">
+					<a class="pull-left" href="#">
+					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
+					</a>
+					<div class="media-body">
+					  Cras sit amet nibh libero metus
+					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
+					</div>
+			  </li>
+			   <li class="media well well-small">
+					<a class="pull-left" href="#">
+					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
+					</a>
+					<div class="media-body">
+					  Cras sit amet nibh libero metus
+					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
+					</div>
+			  </li>
+			  
+			   <li class="media well well-small">
+					<a class="pull-left" href="#">
+					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
+					</a>
+					<div class="media-body">
+					  Cras sit amet nibh libero metus
+					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
+					</div>
+			  </li>
+			   <li class="media well well-small">
+					<a class="pull-left" href="#">
+					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
+					</a>
+					<div class="media-body">
+					  Cras sit amet nibh libero metus
+					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
+					</div>
+			  </li>
+			  <li class="media well well-small">
+					<a class="pull-left" href="#">
+					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
+					</a>
+					<div class="media-body">
+					  Cras sit amet nibh libero metus
+					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
+					</div>
+			  </li>
+			</ul>
+
+		</div>
+		<div class="span9">
+		<div class="well well-small" style="text-align:left">
+			<h3>Business Ltd.</h3>
+			<p><img src="themes/images/carousel/business_website_templates_3.jpg" alt="business templates" /></p>
+			<p> 
+				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/>
+				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+				then just remember us and makes your dream success. We are giving the best solution for your best value of money<br/>
+				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/><br/>
+				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+				then just remember us and makes your dream success. We are giving the best solution for your best value of money
+			   <br/>
 			</p>
-			
+			<p> 
+				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/>
+				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+				then just remember us and makes your dream success. We are giving the best solution for your best value of money<br/>
+				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/><br/>
+				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+				then just remember us and makes your dream success. We are giving the best solution for your best value of money 
+			   <br/>
+			</p>
+			<div class="btn-toolbar">
+			  <div class="btn-group toolTipgroup">
+				<a class="btn" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
+				<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
+				<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
+				<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
+				<a class="btn" href="#" data-placement="top" data-original-title="print"><i class="icon-print"></i></a>
+			  </div>
+			</div>
+
+		<br/>			
+		<ul class="media-list">
+		  <li class="media well well-small">
+				<a class="pull-left" href="#">
+				  <img class="media-object" src="themes/images/img185x165.png" alt="bootstrap business template"/>
+				</a>
+				<div class="media-body">
+				  <h4 class="media-heading">My web solutions</h4>
+					We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/>
+
+					We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+					If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+					then just remember us and makes your dream success. We are giving the best solution for your best value of money.........
+				   <br/><a class="pull-right" href="#"><strong>more</strong></a>
+					<br/>
+				</div>
+		  </li>
+		  <li class="media well well-small">
+				<a class="pull-left" href="#">
+				  <img class="media-object" src="themes/images/img180x120.png" alt="bootstrap business template"/>
+				</a>
+				<div class="media-body">
+				  <h4 class="media-heading">My web solutions</h4>
+				 We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+					If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+					then just remember us and makes your dream success. We are giving the best solution for your best value of money.........
+				  <br/><a class="pull-right" href="#"><strong>more</strong></a> <br/>
+				</div>
+		  </li>
+		  <li class="media well well-small">
+				<a class="pull-left" href="#">
+				  <img class="media-object" src="themes/images/img180x120.png" alt="bootstrap business template"/>
+				</a>
+				<div class="media-body">
+				  <h4 class="media-heading">My web solutions</h4>
+				  We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
+					If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
+					then just remember us and makes your dream success. We are giving the best solution for your best value of money.........
+				   <br/><a class="pull-right" href="#"><strong>more</strong></a>
+				</div>
+		  </li>
+		</ul>			
+		</div>
+		</div>
 		</div>
 	</div>
-	<div class="span4">
-		<div class="thumbnail">
-			<h4>Sécurité informatique</h4>
-			<a href="portfolio.jsp"><img src="themes/images/2.jpg" alt="bootstrap business templates"></a>
-			<p>
-			<br/>
-			La Sécurité des Systèmes d’Information (SSI) est aujourd’hui un sujet important
-			parce que le système d’information (SI) est pour beaucoup d’entreprises un élément absolument vital : le lecteur de ce livre, a priori, devrait être déjà convaincu
-			de de cette évidence, mais il n’est peut-être pas inutile de lui donner quelques munitions pour l’aider à en convaincre sa hiérarchie. Il pourra par exemple à cet effet
-			consulter le livre de Michel Volle e-conomie [114], disponible en ligne, qui explique
-			comment pour une entreprise comme Air-France le SI, qui comporte notamment
-			8 Principes de sécurité du système d’information
-			le système de réservation Amadeus, est un actif plus crucial que les avions.
-			 </p>
-			
-		</div>
-	</div>
-	<div class="span4">
-		<div class="thumbnail">
-			<h4>Rencontre des laureats</h4>
-			<a href="portfolio.jsp"><img src="themes/images/3.jpg" alt="bootstrap business templates"></a>
-			<p>
-			<br/>
-			Cette rencontre vise la réalisation professionnelle des étudiants, des jeunes
-				et moins jeunes. Une réalisation initiale, pour certains, mais aussi et
-				pour tous une réalisation évolutive et durable, celle qui n’appartient
-				qu’à soi.Cette rencontre, la  deuxième de ce mois, s’adresse à vous directement.
-				Vous vous demanderez d’abord : « Comment je communique mon experience dans ma
-				vie de tous les jours avec les nouveaux laureats de mon ecole ? Comment je vais pouvoir réinvestir ces atouts avec
-				eux ? ». Et c’est parti pour des progrès motivés et motivants  des jeunes diplomés par vous !
-				Le sourire et l’attention – tel est le secret de la réussite ! <br/>
-			 </p>
-			
-		</div>
-	</div>
-</div>
-<br/>
-</div>
 </section>
-<section id="clientsSection" style="text-align:center; padding:48px 0">
-<div class="container">
-	  <a href="#" target="_blank"><img src="themes/images/clients/twitterLogo.jpg" alt="business template"></a>
-	  <a href="#" target="_blank"><img src="themes/images/clients/googleLogo.jpg" alt="business template"></a>
-	  <a href="#" target="_blank"><img src="themes/images/clients/facebookLogo.jpg" alt="business template"></a>
-	  <a href="http://mywebsolution.info" target="_blank"><img src="themes/images/clients/my_web_solution.jpg" alt="business template"></a>
-</div>
-</section>
-<!-- body block end======================================== -->
  <!-- Footer
   ================================================== -->
 <section id="footerSection">
@@ -300,15 +245,15 @@
 			<h4>Newsletter and Subscription</h4>
 			<h5>pourquoi devenir membre des alumni ?</h5>
 			<em>
-			"En rejoignant l’ALUMNI de l’Université de Yaounde I, vous adhérez à une démarche solidaire qui vous relie à votre formation et à vos pairs, qui vous inclut dans le rayonnement de votre ancien établissement et vous permet de soutenir les étudiants dans leurs études ou dans leur insertion professionnelle." <br/><br/>
+			"En rejoignant l’ALUMNI de l’Université de Reims Champagne-Ardenne, vous adhérez à une démarche solidaire qui vous relie à votre formation et à vos pairs, qui vous inclut dans le rayonnement de votre ancien établissement et vous permet de soutenir les étudiants dans leurs études ou dans leur insertion professionnelle." <br/><br/>
 			</em>
 			<h5>quels objectifs pratiques ?</h5>
 			<em>
 			"	Pour les étudiants en cursus, faciliter l'offre de stages, l'insertion professionnelle, la mobilité internationale grâce au réseau des diplômés, développer l’accompagnement (coaching, mentorat…) ;
  				Accompagner et soutenir les initiatives par campus, par filière ou par diplôme pour faire vivre les associations d'anciens ;
- 				Mettre en évidence des personnalités et des parcours réussis issus de leur formation ;
+ 				Mettre en évidence des personnalités et des parcours réussis issus de l'URCA ;
  				Impliquer les diplômés dans le devenir de leur Université d'origine, les inciter à participer, notamment via la Fondation, à son financement ;
- 				Développer les contacts à l’international en partenariat avec le Réseau  Alumni de l'université de Yaounde I'."
+ 				Développer les contacts à l’international en partenariat avec le Réseau France Alumni de Campus France."
 			</em>
 			<br/><br/>
 			<h5>Subscription</h5>
@@ -328,13 +273,8 @@
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’URCA ?</h5>
-<<<<<<< HEAD:WebContent/index.jsp
-			  Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
-=======
 			  "To provide affordable web design and..."<br/>
 			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
->>>>>>> origin/dzita:WebContent/index.jsp
 			</div>
 		  </li>
 		   <li class="media">
