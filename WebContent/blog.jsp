@@ -26,33 +26,33 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
+				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class="active"><a href="index.html">Acceuil	</a></li>
-						<li class=""><a href="services.html">Actualite</a></li>  
-						<li class=""><a href="about_us.html">Agenda</a></li>
-						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<li class="active"><a href="index.jsp">Acceuil	</a></li>
+						<li class=""><a href="services.jsp">Actualite</a></li>  
+						<li class=""><a href="about_us.jsp">Agenda</a></li>
+						<li class=""><a href="portfolio.jsp">Vous etes /</a>
 						<ul class="dropdown-menu">
-								<li><a href="elements.html">Etudiant</a></li>
-								<li><a href="comingsoon.html">Responsable</a></li>
-								<li><a href="comingsoon.html">Laureat</a></li>
-								<li><a href="comingsoon.html">Promoteur</a></li>
-								<li><a href="comingsoon.html">Autres</a></li>
+								<li><a href="elements.jsp">Etudiant</a></li>
+								<li><a href="comingsoon.jsp">Responsable</a></li>
+								<li><a href="comingsoon.jsp">Laureat</a></li>
+								<li><a href="comingsoon.jsp">Promoteur</a></li>
+								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">je recrute</a></li>
-								<li><a href="comingsoon.html">je suis en recherche</a></li>
-								<li><a href="comingsoon.html">Nomination</a></li>
-								<li><a href="comingsoon.html">mentorat</a></li>
-								<li><a href="comingsoon.html">initiatives</a></li>
+								<li><a href="elements.jsp">je recrute</a></li>
+								<li><a href="comingsoon.jsp">je suis en recherche</a></li>
+								<li><a href="comingsoon.jsp">Nomination</a></li>
+								<li><a href="comingsoon.jsp">mentorat</a></li>
+								<li><a href="comingsoon.jsp">initiatives</a></li>
 							</ul>
 						</li>
-						<li class=""><a href="blog.html">Blog</a></li>
-						<li class=""><a href="contact.html">Support</a></li>
+						<li class=""><a href="blog.jsp">Blog</a></li>
+						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
 			</div>
@@ -81,7 +81,7 @@
 <h3><a href="#" title="my web solutions">Low Cost Mobile Web Design Price List (+ 10% to 20% OFF)</a></h3>
 <p class="meta">Added by <a href="#" title="Posts by admin">admin</a> on <a href="#">November 14th, 2012</a>, filed under 
 <a href="#" title="View all posts in Category 3">Design </a></p>
-<a href="blog_details.html"  style="display:block; background:url(themes/images/blog/4.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+<a href="blog_details.jsp"  style="display:block; background:url(themes/images/blog/4.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 <p>This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
 We do it all for you from start to finish. When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).
 Our website prices below are complete - there are NO HIDDEN EXTRAS! </p>
@@ -110,7 +110,7 @@ Our website prices below are complete - there are NO HIDDEN EXTRAS! [<a href="bl
 <div class="thumbnail">
 <h3><a href="#" title="my web solutions">Web development history</a></h3>
 <p class="meta">Added by <a href="#" title="Posts by admin">admin</a> on <a href="#">November 14th, 2012</a>, filed under <a href="#" title="View all posts in Category 3">Category 3</a></p>
-<a href="blog_details.html" style="display:block; background:url(themes/images/blog/1.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/1.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 
 <p>This affordable Mobile Web Design Package offers up to 20% Discount for our new clients. We believ our clients are 100% satisfied with us and our services packages. 
 We do it all for you from start to finish. When the mobile website is completed, you can visit your website from handheld device(ie. Mobile, i-pad etc).
@@ -142,22 +142,22 @@ Our website prices below are complete - there are NO HIDDEN EXTRAS! [<a href="bl
 <div id="myCarousel" class="carousel slide blogCarousel">
 	<div class="carousel-inner">
 		<div  style="text-align:center"  class=" item active">
-			<a href="blog_details.html" style="display:block; background:url(themes/images/blog/1.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+			<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/1.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 		</div>
 		<div  style="text-align:center"  class="item">
-			<a href="blog_details.html" style="display:block; background:url(themes/images/blog/2.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+			<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/2.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 		</div>
 		<div  style="text-align:center"  class="item">
-			<a href="blog_details.html" style="display:block; background:url(themes/images/blog/3.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+			<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/3.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 		</div>
 		<div  style="text-align:center"  class="item">
-			<a href="blog_details.html" style="display:block; background:url(themes/images/blog/4.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+			<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/4.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 		</div>
 		<div  style="text-align:center"  class="item">
-			<a href="blog_details.html" style="display:block; background:url(themes/images/blog/5.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+			<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/5.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 		</div>
 		<div  style="text-align:center"  class="item">
-			<a href="blog_details.html" style="display:block; background:url(themes/images/blog/6.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
+			<a href="blog_details.jsp" style="display:block; background:url(themes/images/blog/6.jpg) no-repeat center center; height:250px; max-height:250px; margin-bottom:18px"></a>
 		</div>
 	</div>
 	<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
@@ -331,43 +331,43 @@ We recently introduce cheapest and best mobile web design packages in our servic
 		<h4>Latest news</h4>
 		<ul class="media-list">
 		  <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		</ul>
@@ -376,25 +376,25 @@ We recently introduce cheapest and best mobile web design packages in our servic
 	<div class="span3">
 			<h4>Visit us</h4>
 			<address style="margin-bottom:15px;">
-			<strong><a href="index.html" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
+			<strong><a href="index.jsp" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
 				194, Vectoria Street, Newwork <br>
 				nw 488, USA<br>
 			</address>
 			Phone: <i class="icon-phone-sign"></i> &nbsp; 00123 456 000 789 <br>
-			Email: <a href="contact.html" title="contact"><i class="icon-envelope-alt"></i> info@companyltd.com</a><br/>
-			Link: <a href="index.html" title="Business ltd"><i class="icon-globe"></i> www.businessltd.com</a><br/><br/>
+			Email: <a href="contact.jsp" title="contact"><i class="icon-envelope-alt"></i> info@companyltd.com</a><br/>
+			Link: <a href="index.jsp" title="Business ltd"><i class="icon-globe"></i> www.businessltd.com</a><br/><br/>
 			<h5>Quick Links</h5>	
-			<a href="services.html" title="services"><i class="icon-cogs"></i> Services </a><br/>
-			<a href="about.html" title=""><i class="icon-info-sign"></i> About us </a><br/>
-			<a href="portfolio.html" title="portfolio"><i class="icon-question-sign"></i> Portfolio </a><br/>
+			<a href="services.jsp" title="services"><i class="icon-cogs"></i> Services </a><br/>
+			<a href="about.jsp" title=""><i class="icon-info-sign"></i> About us </a><br/>
+			<a href="portfolio.jsp" title="portfolio"><i class="icon-question-sign"></i> Portfolio </a><br/>
 
 	<h5>Find us on</h5>	
 	<div style="font-size:2.5em;">
-		<a href="index.html" title="" style="display:inline-block; width:1em"> <i class="icon-facebook-sign"> </i> </a> 
-		<a href="portfolio.html" title="" style="display:inline-block; width:1em"> <i class="icon-twitter-sign"> </i> </a>
-		<a href="services.html" title="" style="display:inline-block;width:1em"> <i class="icon-facetime-video"> </i> </a>
-		<a href="services.html" title="" style="display:inline-block;width:1em"> <i class="icon-google-plus-sign"> </i> </a>
-		<a href="about.html" title="" style="display:inline-block;width:1em" > <i class="icon-rss"> </i> </a>
+		<a href="index.jsp" title="" style="display:inline-block; width:1em"> <i class="icon-facebook-sign"> </i> </a> 
+		<a href="portfolio.jsp" title="" style="display:inline-block; width:1em"> <i class="icon-twitter-sign"> </i> </a>
+		<a href="services.jsp" title="" style="display:inline-block;width:1em"> <i class="icon-facetime-video"> </i> </a>
+		<a href="services.jsp" title="" style="display:inline-block;width:1em"> <i class="icon-google-plus-sign"> </i> </a>
+		<a href="about.jsp" title="" style="display:inline-block;width:1em" > <i class="icon-rss"> </i> </a>
 	</div>
 	</div>
     </div>

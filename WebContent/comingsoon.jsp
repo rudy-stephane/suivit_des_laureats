@@ -26,33 +26,33 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
+				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class="active"><a href="index.html">Acceuil	</a></li>
-						<li class=""><a href="services.html">Actualite</a></li>  
-						<li class=""><a href="about_us.html">Agenda</a></li>
-						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<li class="active"><a href="index.jsp">Acceuil	</a></li>
+						<li class=""><a href="services.jsp">Actualite</a></li>  
+						<li class=""><a href="about_us.jsp">Agenda</a></li>
+						<li class=""><a href="portfolio.jsp">Vous etes /</a>
 						<ul class="dropdown-menu">
-								<li><a href="elements.html">Etudiant</a></li>
-								<li><a href="comingsoon.html">Responsable</a></li>
-								<li><a href="comingsoon.html">Laureat</a></li>
-								<li><a href="comingsoon.html">Promoteur</a></li>
-								<li><a href="comingsoon.html">Autres</a></li>
+								<li><a href="elements.jsp">Etudiant</a></li>
+								<li><a href="comingsoon.jsp">Responsable</a></li>
+								<li><a href="comingsoon.jsp">Laureat</a></li>
+								<li><a href="comingsoon.jsp">Promoteur</a></li>
+								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">je recrute</a></li>
-								<li><a href="comingsoon.html">je suis en recherche</a></li>
-								<li><a href="comingsoon.html">Nomination</a></li>
-								<li><a href="comingsoon.html">mentorat</a></li>
-								<li><a href="comingsoon.html">initiatives</a></li>
+								<li><a href="elements.jsp">je recrute</a></li>
+								<li><a href="comingsoon.jsp">je suis en recherche</a></li>
+								<li><a href="comingsoon.jsp">Nomination</a></li>
+								<li><a href="comingsoon.jsp">mentorat</a></li>
+								<li><a href="comingsoon.jsp">initiatives</a></li>
 							</ul>
 						</li>
-						<li class=""><a href="blog.html">Blog</a></li>
-						<li class=""><a href="contact.html">Support</a></li>
+						<li class=""><a href="blog.jsp">Blog</a></li>
+						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
 			</div>

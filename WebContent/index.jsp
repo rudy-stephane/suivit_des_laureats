@@ -26,33 +26,33 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
+				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class="active"><a href="index.html">Acceuil	</a></li>
-						<li class=""><a href="services.html">Actualite</a></li>  
-						<li class=""><a href="about_us.html">Agenda</a></li>
-						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<li class="active"><a href="index.jsp">Acceuil	</a></li>
+						<li class=""><a href="services.jsp">Actualite</a></li>  
+						<li class=""><a href="about_us.jsp">Agenda</a></li>
+						<li class=""><a href="portfolio.jsp">Vous etes /</a>
 						<ul class="dropdown-menu">
-								<li><a href="elements.html">Etudiant</a></li>
-								<li><a href="comingsoon.html">Responsable</a></li>
-								<li><a href="comingsoon.html">Laureat</a></li>
-								<li><a href="comingsoon.html">Promoteur</a></li>
-								<li><a href="comingsoon.html">Autres</a></li>
+								<li><a href="elements.jsp">Etudiant</a></li>
+								<li><a href="comingsoon.jsp">Responsable</a></li>
+								<li><a href="comingsoon.jsp">Laureat</a></li>
+								<li><a href="comingsoon.jsp">Promoteur</a></li>
+								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">je recrute</a></li>
-								<li><a href="comingsoon.html">je suis en recherche</a></li>
-								<li><a href="comingsoon.html">Nomination</a></li>
-								<li><a href="comingsoon.html">mentorat</a></li>
-								<li><a href="comingsoon.html">initiatives</a></li>
+								<li><a href="elements.jsp">je recrute</a></li>
+								<li><a href="comingsoon.jsp">je suis en recherche</a></li>
+								<li><a href="comingsoon.jsp">Nomination</a></li>
+								<li><a href="comingsoon.jsp">mentorat</a></li>
+								<li><a href="comingsoon.jsp">initiatives</a></li>
 							</ul>
 						</li>
-						<li class=""><a href="blog.html">Blog</a></li>
-						<li class=""><a href="contact.html">Support</a></li>
+						<li class=""><a href="blog.jsp">Blog</a></li>
+						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
 			</div>
@@ -121,86 +121,86 @@
 		<div class="row" style="text-align:center">
 			<div class="span12">
 			<div class="well well-small">
-				<h4>notre objectif</h4>
+				<h4>Notre objectif</h4>
 				<p>"Valorisation des diplômes, appui aux nouveaux étudiants, relais d'influence, notoriété et rayonnement de l'Université... vous aussi, soutenez les réussites futures en rejoignant le Réseau ALUMNI des diplômés de l'Université de yaounde I"<br/><br/></p>
 			</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.html"  data-placement="top" data-content=" "
+					<a href="portfolio.jsp"  data-placement="top" data-content=" "
 					 data-original-title="Les laureats de la FS" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-magic"></i>
 					<span><br/>FS</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.html"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSE" style="display:block; text-decoration:none">
+					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSE" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-link"></i>
 					<span><br/>FSE</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.html"  data-placement="top" data-content=" " data-original-title="Les laureats de la FALSH " style="display:block; text-decoration:none">
+					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FALSH " style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-cogs"></i>
 					<span><br/>FALSH</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.html"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSMB" style="display:block; text-decoration:none">
+					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSMB" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-wrench"></i>
 					<span><br/>FSMB</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.html" id="poverone"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENS" style="display:block; text-decoration:none">
+					<a href="portfolio.jsp" id="poverone"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENS" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-beaker"></i>
 					<span><br/>ENS</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.html"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENSP" style="display:block; text-decoration:none">
+					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENSP" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
 					<span><br/>ENSP</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>
 			<div class="span2" style="margin-left:50%;">
 				<div class="well well-small" >
 					<h4>
-					<a href="./portfolio.html"  data-placement="top" data-content=" " data-original-title="Les laureats de la IUT" style="display:block; text-decoration:none">
+					<a href="./portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la IUT" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
 					<span><br/>IUT</span>
 					</a>
 					</h4>
-					<a href="details.html"><small>view details</small></a>
+					<a href="details.jsp"><small>view details</small></a>
 				</div>
 			</div>	
 		</div>
@@ -213,7 +213,7 @@
 	<div class="span4">
 		<div class="thumbnail">
 			<h4>Developpement Android</h4>
-			<a href="portfolio.html"><img src="themes/images/1.jpg" alt="bootstrap business templates"></a>
+			<a href="portfolio.jsp"><img src="themes/images/1.jpg" alt="bootstrap business templates"></a>
 			<p>
 			<br/>
 			Des milliers (voir beaucoup plus !) de personnes (plus ou moins professionnelles) développent des
@@ -228,7 +228,7 @@
 	<div class="span4">
 		<div class="thumbnail">
 			<h4>Sécurité informatique</h4>
-			<a href="portfolio.html"><img src="themes/images/2.jpg" alt="bootstrap business templates"></a>
+			<a href="portfolio.jsp"><img src="themes/images/2.jpg" alt="bootstrap business templates"></a>
 			<p>
 			<br/>
 			La Sécurité des Systèmes d’Information (SSI) est aujourd’hui un sujet important
@@ -245,7 +245,7 @@
 	<div class="span4">
 		<div class="thumbnail">
 			<h4>Rencontre des laureats</h4>
-			<a href="portfolio.html"><img src="themes/images/3.jpg" alt="bootstrap business templates"></a>
+			<a href="portfolio.jsp"><img src="themes/images/3.jpg" alt="bootstrap business templates"></a>
 			<p>
 			<br/>
 			Cette rencontre vise la réalisation professionnelle des étudiants, des jeunes
@@ -306,43 +306,43 @@
 		<h4>Latest news</h4>
 		<ul class="media-list">
 		  <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’URCA ?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
 			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
 			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;"<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">QUELS PROJETS POUR L’ALUMNI DE L’UYI ?</h5>
 			  "Offrir un réseau social dédié aux échanges entre les membres de l’Alumni, ainsi qu’avec les étudiants en cursus ou les diplômés en insertion ;<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		</ul>
@@ -351,17 +351,17 @@
 	<div class="span3">
 			<h4>Visit us</h4>
 			<address style="margin-bottom:15px;">
-			<strong><a href="index.html" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
+			<strong><a href="index.jsp" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
 				194, Yaounde Ngoa-ekelle <br>
 				bp 488, Cameroun<br>
 			</address>
 			Phone: <i class="icon-phone-sign"></i> &nbsp; (+237)671402318 <br>
-			Email: <a href="contact.html" title="contact"><i class="icon-envelope-alt"></i> ratsa01@gmail.com</a><br/>
-			Link: <a href="index.html" title="Business ltd"><i class="icon-globe"></i> www.uninet.com</a><br/><br/>
+			Email: <a href="contact.jsp" title="contact"><i class="icon-envelope-alt"></i> ratsa01@gmail.com</a><br/>
+			Link: <a href="index.jsp" title="Business ltd"><i class="icon-globe"></i> www.uninet.com</a><br/><br/>
 			<h5>Quick Links</h5>	
-			<a href="services.html" title="services"><i class="icon-cogs"></i> Services </a><br/>
-			<a href="about.html" title=""><i class="icon-info-sign"></i> About us </a><br/>
-			<a href="portfolio.html" title="portfolio"><i class="icon-question-sign"></i> Agenda </a><br/>
+			<a href="services.jsp" title="services"><i class="icon-cogs"></i> Services </a><br/>
+			<a href="about.jsp" title=""><i class="icon-info-sign"></i> About us </a><br/>
+			<a href="portfolio.jsp" title="portfolio"><i class="icon-question-sign"></i> Agenda </a><br/>
 
 	<h5>Nous suivre sur :</h5>	
 	<div style="font-size:2.5em;">

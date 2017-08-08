@@ -26,33 +26,33 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Alumni <small>  yaounde I</small></a></h1>
+				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
-						<li class="active"><a href="index.html">Acceuil	</a></li>
-						<li class=""><a href="services.html">Actualite</a></li>  
-						<li class=""><a href="about_us.html">Agenda</a></li>
-						<li class=""><a href="portfolio.html">Vous etes /</a>
+						<li class="active"><a href="index.jsp">Acceuil	</a></li>
+						<li class=""><a href="services.jsp">Actualite</a></li>  
+						<li class=""><a href="about_us.jsp">Agenda</a></li>
+						<li class=""><a href="portfolio.jsp">Vous etes /</a>
 						<ul class="dropdown-menu">
-								<li><a href="elements.html">Etudiant</a></li>
-								<li><a href="comingsoon.html">Responsable</a></li>
-								<li><a href="comingsoon.html">Laureat</a></li>
-								<li><a href="comingsoon.html">Promoteur</a></li>
-								<li><a href="comingsoon.html">Autres</a></li>
+								<li><a href="elements.jsp">Etudiant</a></li>
+								<li><a href="comingsoon.jsp">Responsable</a></li>
+								<li><a href="comingsoon.jsp">Laureat</a></li>
+								<li><a href="comingsoon.jsp">Promoteur</a></li>
+								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Espace Carriere<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="elements.html">je recrute</a></li>
-								<li><a href="comingsoon.html">je suis en recherche</a></li>
-								<li><a href="comingsoon.html">Nomination</a></li>
-								<li><a href="comingsoon.html">mentorat</a></li>
-								<li><a href="comingsoon.html">initiatives</a></li>
+								<li><a href="elements.jsp">je recrute</a></li>
+								<li><a href="comingsoon.jsp">je suis en recherche</a></li>
+								<li><a href="comingsoon.jsp">Nomination</a></li>
+								<li><a href="comingsoon.jsp">mentorat</a></li>
+								<li><a href="comingsoon.jsp">initiatives</a></li>
 							</ul>
 						</li>
-						<li class=""><a href="blog.html">Blog</a></li>
-						<li class=""><a href="contact.html">Support</a></li>
+						<li class=""><a href="blog.jsp">Blog</a></li>
+						<li class=""><a href="contact.jsp">Support</a></li>
 					</ul>
 				</div>
 			</div>
@@ -1382,43 +1382,43 @@
 		<h4>Latest news</h4>
 		<ul class="media-list">
 		  <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		   <li class="media">
-			<a class="pull-left" href="blog_details.html">
+			<a class="pull-left" href="blog_details.jsp">
 			  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template">
 			</a>
 			<div class="media-body">
 			  <h5 class="media-heading">Why our customers satisfied?</h5>
 			  "To provide affordable web design and..."<br/>
-			  <small><em>November 14, 2012</em> <a href="blog_details.html"> More</a></small>
+			  <small><em>November 14, 2012</em> <a href="blog_details.jsp"> More</a></small>
 			</div>
 		  </li>
 		</ul>
@@ -1427,17 +1427,17 @@
 	<div class="span3">
 			<h4>Visit us</h4>
 			<address style="margin-bottom:15px;">
-			<strong><a href="index.html" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
+			<strong><a href="index.jsp" title="business"><i class=" icon-home"></i> Business (p.) Ltd. </a></strong><br>
 				194, Vectoria Street, Newwork <br>
 				nw 488, USA<br>
 			</address>
 			Phone: <i class="icon-phone-sign"></i> &nbsp; 00123 456 000 789 <br>
-			Email: <a href="contact.html" title="contact"><i class="icon-envelope-alt"></i> info@companyltd.com</a><br/>
-			Link: <a href="index.html" title="Business ltd"><i class="icon-globe"></i> www.businessltd.com</a><br/><br/>
+			Email: <a href="contact.jsp" title="contact"><i class="icon-envelope-alt"></i> info@companyltd.com</a><br/>
+			Link: <a href="index.jsp" title="Business ltd"><i class="icon-globe"></i> www.businessltd.com</a><br/><br/>
 			<h5>Quick Links</h5>	
-			<a href="services.html" title="services"><i class="icon-cogs"></i> Services </a><br/>
-			<a href="about.html" title=""><i class="icon-info-sign"></i> About us </a><br/>
-			<a href="portfolio.html" title="portfolio"><i class="icon-question-sign"></i> Portfolio </a><br/>
+			<a href="services.jsp" title="services"><i class="icon-cogs"></i> Services </a><br/>
+			<a href="about.jsp" title=""><i class="icon-info-sign"></i> About us </a><br/>
+			<a href="portfolio.jsp" title="portfolio"><i class="icon-question-sign"></i> Portfolio </a><br/>
 
 	<h5>Find us on</h5>	
 	<div style="font-size:2.5em;">
