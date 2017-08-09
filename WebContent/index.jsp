@@ -26,7 +26,9 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
+				<h1><a class="pull-left" href="http://www.uy1.uninet.cm/">
+				  <img class="media-object" src="themes/images/logo.png" alt="bootstrap business template"/>
+				</a><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
 						<li class="active"><a href="index.jsp">Acceuil	</a></li>  
