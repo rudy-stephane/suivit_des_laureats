@@ -1,8 +1,9 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Business clean web templates</title>
+    <title>Agenda</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -26,7 +27,9 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
+				<h1><a class="pull-left" href="http://www.uy1.uninet.cm/">
+				  <img class="media-object" src="themes/images/logo.png" alt="bootstrap business template"/>
+				</a><a class="brand" href="index.jsp"> Alumni <small>  yaounde I</small></a></h1>
 				<div class="nav-collapse collapse">
 					<ul class="nav pull-right">
 						<li class="active"><a href="index.jsp">Acceuil	</a></li>
@@ -63,12 +66,7 @@
 <!-- Page banner -->
 <section id="bannerSection" style="background:url(themes/images/banner/aboutus.png) no-repeat center center #000;">
 	<div class="container" >	
-		<h1 id="pageTitle">About us 
-		<span class="pull-right toolTipgroup">
-			<a href="#" data-placement="top" data-original-title="Find us on via facebook"><img style="width:45px" src="themes/images/facebook.png" alt="facebook" title="facebook"></a>
-			<a href="#" data-placement="top" data-original-title="Find us on via twitter"><img style="width:45px" src="themes/images/twitter.png" alt="twitter" title="twitter"></a>
-			<a href="#" data-placement="top" data-original-title="Find us on via youtube"><img style="width:45px" src="themes/images/youtube.png" alt="youtube" title="youtube"></a>
-		</span>
+		<h1 id="pageTitle">Agenda 
 		</h1>
 	</div>
 </section> 
@@ -78,18 +76,14 @@
 	<div class="row">
 		<div class="span3">
 			<div class="well well-small">
-				<h3>Welcome!</h3>
-				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/><br/>
-
-				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone.
-				 If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-				then just remember us and makes your dream success.<br/><strong> We are giving the best solution for your best value of money.</strong>
+				<h3>Bienvenue!</h3>
+	Retrouverez ici toutes les informations liées aux <strong>évènements</strong> qui auront lieu, qui se passe actuellement ou qui ont eu lieu a l'Université de Yaoundé 1		
 			</div>
 			<br/>
 			<div class="thumbnail">
-				<a href="http://mywebsolution.info" target="_blank" ><img src="themes/images/portfolio/mywebsolution.jpg" alt="bootstrap business templates"></a>
-				<h4>My web solution</h4>
-				<p>Our aim is simple - to provide affordable web design and development services for different devices., </p>
+				<a href="http://www.uy1.uninet.cm/" target="_blank" ><img src="themes/images/logouy1.jpg" alt="Université de Yaoundé 1"></a>
+				<h4>Université de Yaoundé 1</h4>
+				<p>Valorisation des diplômes, appui aux nouveaux étudiants, relais d'influence, notoriété et rayonnement de l'Université... vous aussi, soutenez les réussites futures en rejoignant le Réseau ALUMNI des diplômés de l'Université de yaounde I</p>
 				<div class="btn-toolbar">
 				   <div class="btn-group toolTipgroup">
 					<a class="btn" href="#" data-placement="right" data-original-title="send email"><i class="icon-envelope"></i></a>
@@ -101,132 +95,49 @@
 				</div>
 			</div>
 			<br/>
-			<h4>Testimonials</h4>
-			<ul class="media-list">
-			   <li class="media well well-small">
-					<a class="pull-left" href="#">
-					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
-					</a>
-					<div class="media-body">
-					  Cras sit amet nibh libero metus
-					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
-					</div>
-			  </li>
-			   <li class="media well well-small">
-					<a class="pull-left" href="#">
-					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
-					</a>
-					<div class="media-body">
-					  Cras sit amet nibh libero metus
-					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
-					</div>
-			  </li>
-			  
-			   <li class="media well well-small">
-					<a class="pull-left" href="#">
-					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
-					</a>
-					<div class="media-body">
-					  Cras sit amet nibh libero metus
-					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
-					</div>
-			  </li>
-			   <li class="media well well-small">
-					<a class="pull-left" href="#">
-					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
-					</a>
-					<div class="media-body">
-					  Cras sit amet nibh libero metus
-					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
-					</div>
-			  </li>
-			  <li class="media well well-small">
-					<a class="pull-left" href="#">
-					  <img class="media-object" src="themes/images/img64x64.png" alt="bootstrap business template"/>
-					</a>
-					<div class="media-body">
-					  Cras sit amet nibh libero metus
-					  Cras sit amet nibh ...<small> November 15 2012</small><a class="pull-right" href="#"><strong>Kim</strong></a>
-					</div>
-			  </li>
-			</ul>
-
 		</div>
 		<div class="span9">
 		<div class="well well-small" style="text-align:left">
-			<h3>Business Ltd.</h3>
-			<p><img src="themes/images/carousel/business_website_templates_3.jpg" alt="business templates" /></p>
+			<h3>Alumni Université de Yaoundé 1</h3>
+			<p><img src="themes/images/universite-yaounde_etudiants.jpg" alt="business templates" /></p>
 			<p> 
-				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/>
-				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-				then just remember us and makes your dream success. We are giving the best solution for your best value of money<br/>
-				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/><br/>
-				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-				then just remember us and makes your dream success. We are giving the best solution for your best value of money
+				Retrouverez ici toutes les informations liées aux <strong>évènements</strong> qui auront lieu, qui se passe actuellement ou qui ont eu lieu a l'Université de Yaoundé 1		
 			   <br/>
 			</p>
-			<p> 
-				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/>
-				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-				then just remember us and makes your dream success. We are giving the best solution for your best value of money<br/>
-				We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/><br/>
-				We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-				If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-				then just remember us and makes your dream success. We are giving the best solution for your best value of money 
-			   <br/>
-			</p>
-			<div class="btn-toolbar">
-			  <div class="btn-group toolTipgroup">
-				<a class="btn" href="#" data-placement="top" data-original-title="send email"><i class="icon-envelope"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="do you like?"><i class="icon-thumbs-up"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="dont like?"><i class="icon-thumbs-down"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="share"><i class="icon-link"></i></a>
-				<a class="btn" href="#" data-placement="top" data-original-title="print"><i class="icon-print"></i></a>
-			  </div>
-			</div>
+			<p>Valorisation des diplômes, appui aux nouveaux étudiants, relais d'influence, notoriété et rayonnement de l'Université... vous aussi, soutenez les réussites futures en rejoignant le Réseau ALUMNI des diplômés de l'Université de yaounde I</p>
 
 		<br/>			
 		<ul class="media-list">
 		  <li class="media well well-small">
-				<a class="pull-left" href="#">
-				  <img class="media-object" src="themes/images/img185x165.png" alt="bootstrap business template"/>
+				<a class="pull-left" href="http://www.webuy1.uninet.cm/uy1/images/administration/pdf/Recrutement.pdf">
+				  <img class="media-object" src="themes/images/BANDEAU-RECRUTEMENT.png" alt="bootstrap business template"/>
 				</a>
 				<div class="media-body">
-				  <h4 class="media-heading">My web solutions</h4>
-					We specialise in web design, web development and graphic design for different Desktop, Mobiles and Tablets.<br/>
-
-					We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-					If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-					then just remember us and makes your dream success. We are giving the best solution for your best value of money.........
-				   <br/><a class="pull-right" href="#"><strong>more</strong></a>
+				  <h4 class="media-heading">Appel à candidature pour le recrutement d'Assistants à l'Université de Yaoundé I</h4>
+					Le Recteur de l'Université de Yaoundé I porte à la connaissance des personnes intéressées que 25 postes sont ouverts à la Faculté des Sciences de l'Education et à l'IUT-Bois de Mbalmayo.
+				   <br/><a class="pull-right" href="http://www.webuy1.uninet.cm/uy1/images/administration/pdf/Recrutement.pdf"><strong>more</strong></a>
 					<br/>
 				</div>
 		  </li>
 		  <li class="media well well-small">
-				<a class="pull-left" href="#">
-				  <img class="media-object" src="themes/images/img180x120.png" alt="bootstrap business template"/>
+				<a class="pull-left" href="https://www.scival.com">
+				  <img class="media-object" src="themes/images/scival-logo.jpg" alt="bootstrap business template"/>
 				</a>
 				<div class="media-body">
-				  <h4 class="media-heading">My web solutions</h4>
-				 We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-					If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-					then just remember us and makes your dream success. We are giving the best solution for your best value of money.........
-				  <br/><a class="pull-right" href="#"><strong>more</strong></a> <br/>
+				  <h4 class="media-heading">SciVal</h4>
+				<strong>SciVal</strong> est désormais disponible à l'Université de Yaoundé 1
+				  <br/><a class="pull-right" href="https://www.scival.com"><strong>more</strong></a> <br/>
 				</div>
 		  </li>
 		  <li class="media well well-small">
-				<a class="pull-left" href="#">
-				  <img class="media-object" src="themes/images/img180x120.png" alt="bootstrap business template"/>
+				<a class="pull-left" href="http://canalolympia.com/yaounde/">
+				  <img class="media-object" src="themes/images/canal_olympia.jpg" alt="bootstrap business template"/>
 				</a>
 				<div class="media-body">
-				  <h4 class="media-heading">My web solutions</h4>
-				  We recently introduce cheapest and best mobile web design packages in our services. This is most popular and beneficial for everyone. 
-					If you are looking for upgrade your website computable in mobiles and tablets, Even if you don't have any website, 
-					then just remember us and makes your dream success. We are giving the best solution for your best value of money.........
-				   <br/><a class="pull-right" href="#"><strong>more</strong></a>
+				  <h4 class="media-heading">Canal Olympia, Université de Yaoundé 1</h4>
+				  Le cinema est de retour au cameroun!! Canal Olympia de l'Université de Yaoundé 1 est ouvert de Lundi à Dimanche; vous avez donc la possibilité de venir regarder des films avec vos amis
+				  votre faimille et bien d'autres. Faite un tour laba pour redécouvrir les écrans noirs  
+				   <br/><a class="pull-right" href="http://canalolympia.com/yaounde/"><strong>more</strong></a>
 				</div>
 		  </li>
 		</ul>			
