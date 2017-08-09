@@ -26,7 +26,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<h1><a class="brand" href="index.html"> Alumni <small>  Yaounde I.</small></a></h1>
+				<h1><a class="brand" href="index.html"> Promoteur <small>  Yaounde I.</small></a></h1>
 				
 			</div>
 			
@@ -35,7 +35,7 @@
 </section>
 <!--Header Ends================================================ -->
 <section id="formSection" style="background-color: #ff3300"> 
-	<%@ include file="formulaire.jsp" %>
+	<%@ include file="formPromoteur.jsp" %>
 </section>
 <!-- Page banner -->
 <!--

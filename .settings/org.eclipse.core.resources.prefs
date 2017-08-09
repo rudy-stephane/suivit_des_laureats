@@ -1,8 +1,9 @@
-#Tue Aug 08 16:38:04 WAT 2017
+#Wed Aug 09 16:07:13 WAT 2017
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=origin/dzita
 eclipse.preferences.version=1
-encoding//WebContent/about_us.jsp=UTF-8
 encoding//WebContent/blog.jsp=UTF-8
+encoding//WebContent/contact.jsp=UTF-8
+encoding//WebContent/formulaireEtudiant.jsp=UTF-8
 encoding//WebContent/index.jsp=UTF-8

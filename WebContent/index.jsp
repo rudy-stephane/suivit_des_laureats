@@ -40,10 +40,10 @@
 						</li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Vous etes :<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-								<li><a href="elements.jsp">Etudiant</a></li>
-								<li><a href="comingsoon.jsp">Responsable</a></li>
-								<li><a href="comingsoon.jsp">Laureat</a></li>
-								<li><a href="comingsoon.jsp">Promoteur</a></li>
+								<li><a href="formulaireEtudiant.jsp">Etudiant</a></li>
+								<li><a href="http://localhost:8080/ZLaureat/">Responsable</a></li>
+								<li><a href="formulaireLaureat.jsp">Laureat</a></li>
+								<li><a href="formulairePromoteur.jsp">Promoteur</a></li>
 								<li><a href="comingsoon.jsp">Autres</a></li>
 							</ul>
 						</li>
@@ -134,7 +134,7 @@
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" "
+					<a href="evenementfs.jsp"  data-placement="top" data-content=" "
 					 data-original-title="Les laureats de la FS" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-magic"></i>
 					<span><br/>FS</span>
@@ -146,7 +146,7 @@
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSE" style="display:block; text-decoration:none">
+					<a href="evenementfse.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSE" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-link"></i>
 					<span><br/>FSE</span>
 					</a>
@@ -157,7 +157,7 @@
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FALSH " style="display:block; text-decoration:none">
+					<a href="evenementfalsh.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FALSH " style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-cogs"></i>
 					<span><br/>FALSH</span>
 					</a>
@@ -168,7 +168,7 @@
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSMB" style="display:block; text-decoration:none">
+					<a href="evenementfmsb.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la FSMB" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-wrench"></i>
 					<span><br/>FSMB</span>
 					</a>
@@ -179,7 +179,7 @@
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.jsp" id="poverone"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENS" style="display:block; text-decoration:none">
+					<a href="evenementens.jsp" id="poverone"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENS" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-beaker"></i>
 					<span><br/>ENS</span>
 					</a>
@@ -190,7 +190,7 @@
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENSP" style="display:block; text-decoration:none">
+					<a href="evenementensp.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la ENSP" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
 					<span><br/>ENSP</span>
 					</a>
@@ -201,7 +201,7 @@
 			<div class="span2" style="margin-left:50%;">
 				<div class="well well-small" >
 					<h4>
-					<a href="./portfolio.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la IUT" style="display:block; text-decoration:none">
+					<a href="evenementiut.jsp"  data-placement="top" data-content=" " data-original-title="Les laureats de la IUT" style="display:block; text-decoration:none">
 					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
 					<span><br/>IUT</span>
 					</a>
